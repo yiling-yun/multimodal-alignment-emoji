@@ -1,0 +1,1032 @@
+#,emoji,unicode,name,emoji_unicode_category,freq,fam,vcomp,clar,aro,val
+1,😀,U+1F600,grinning face,face-smiling,4.9,5.5,1.733,6.4,5.414,7.533
+2,😃,U+1F603,grinning face with big eyes,face-smiling,3.538,5.633,2.037,5.7,4.517,7.767
+3,😄,U+1F604,grinning face with smiling eyes,face-smiling,4.107,5.3,2.462,6.2,4.172,7.533
+4,😁,U+1F601,beaming face with smiling eyes,face-smiling,4.367,5.077,1.867,5.9,5.483,7.733
+5,😆,U+1F606,grinning squinting face,face-smiling,3.75,4.933,2.577,5.433,4.862,7.233
+6,😅,U+1F605,grinning face with sweat,face-smiling,5.1,5.24,2.417,5.233,4.964,5.111
+7,🤣,U+1F923,rolling on the floor laughing,face-smiling,6.233,6.16,2.542,6.3,6.679,7.963
+8,😂,U+1F602,face with tears of joy,face-smiling,6.567,6.64,2.792,6.633,6.214,8.148
+9,🙂,U+1F642,slightly smiling face,face-smiling,4,5.7,1.433,4.6,4.167,6.933
+10,🙃,U+1F643,upside-down face,face-smiling,4.357,5.833,2.538,4.367,4.964,5.433
+11,😉,U+1F609,winking face,face-smiling,4.8,5.32,1.833,5.267,4.074,6.926
+12,😊,U+1F60A,smiling face with smiling eyes,face-smiling,4.633,6.233,1.8,5.8,4.167,7.767
+13,😇,U+1F607,smiling face with halo,face-smiling,3.885,4.967,2.074,6.367,2.897,7.1
+14,🥰,U+1F970,smiling face with hearts,face-affection,6.115,6.767,1.889,6.567,4.69,8.4
+15,😍,U+1F60D,smiling face with heart-eyes,face-affection,6.423,6.8,1.741,6.3,5.517,8.633
+16,🤩,U+1F929,star-struck,face-affection,4.067,5.667,1.933,6.31,5.567,7.8
+17,😘,U+1F618,face blowing a kiss,face-affection,6.233,6.5,2.367,6.4,5.414,8.133
+18,😗,U+1F617,kissing face,face-affection,3.467,5.3,1.633,3.733,4.167,6.7
+19,☺,U+263A,smiling face,face-affection,5.786,6.267,2.692,5.933,3.517,7.733
+20,😚,U+1F61A,kissing face with closed eyes,face-affection,4.633,6,1.733,4.467,4.067,7.467
+21,😙,U+1F619,kissing face with smiling eyes,face-affection,4.462,5.767,1.741,5.9,4.621,7.5
+23,😋,U+1F60B,face savoring food,face-tongue,4.033,5.933,1.633,5.633,4.533,7.586
+24,😛,U+1F61B,face with tongue,face-tongue,3.923,5.533,1.815,5.5,4.862,7.2
+25,😜,U+1F61C,winking face with tongue,face-tongue,4.833,5.12,2.417,5.233,4.571,7.111
+26,🤪,U+1F92A,zany face,face-tongue,4.167,6.067,2.033,5.833,5.533,7.621
+27,😝,U+1F61D,squinting face with tongue,face-tongue,3.808,5.633,1.63,4.667,5,7.3
+28,🤑,U+1F911,money-mouth face,face-tongue,2.034,2.87,3.083,5.933,5.2,6.185
+29,🤗,U+1F917,hugging face,face-hand,4.25,5.467,3.269,5.1,4.31,7.2
+30,🤭,U+1F92D,face with hand over mouth,face-hand,4.5,4.44,2.75,5.5,4.857,6.185
+31,🤫,U+1F92B,shushing face,face-hand,3.833,5.3,2.033,6.867,4.267,4.933
+32,🤔,U+1F914,thinking face,face-hand,5.1,4.8,3.083,6.633,4.857,4.593
+33,🤐,U+1F910,zipper-mouth face,face-neutral-skeptical,3.385,4.3,1.852,6.5,5.586,3.5
+34,🤨,U+1F928,face with raised eyebrow,face-neutral-skeptical,3.621,5.533,1.767,6.5,5.133,3.867
+35,😐,U+1F610,neutral face,face-neutral-skeptical,3.733,5.269,1.733,4.6,5.379,3.133
+36,😑,U+1F611,expressionless face,face-neutral-skeptical,4,5.346,1.967,4.517,5.759,4.067
+37,😶,U+1F636,face without mouth,face-neutral-skeptical,3.367,4.04,1.75,3.633,4.643,3.926
+39,😏,U+1F60F,smirking face,face-neutral-skeptical,5.1,5.9,1.667,6.433,5.967,7.033
+40,😒,U+1F612,unamused face,face-neutral-skeptical,4.7,5.08,2.5,5.3,4.893,4.037
+41,🙄,U+1F644,face with rolling eyes,face-neutral-skeptical,5.267,6.038,2.2,3.967,5.931,3.567
+42,😬,U+1F62C,grimacing face,face-neutral-skeptical,3.5,5.6,1.9,5.767,5.233,3.9
+44,🤥,U+1F925,lying face,face-neutral-skeptical,1.679,2.261,3.333,6.655,5.036,4.63
+45,😌,U+1F60C,relieved face,face-sleepy,4.433,5.16,2.542,5.733,3.185,6.037
+46,😔,U+1F614,pensive face,face-sleepy,5,5.12,2.333,5.7,5,2.222
+47,😪,U+1F62A,sleepy face,face-sleepy,3.033,5.533,1.733,6.133,4.5,3.167
+48,🤤,U+1F924,drooling face,face-sleepy,5,4.56,2.792,5.933,5.107,6.63
+49,😴,U+1F634,sleeping face,face-sleepy,4.6,6.231,2.033,6.467,1.621,6.333
+50,😷,U+1F637,face with medical mask,face-unwell,2.621,5.2,2.2,4.1,6.133,2.4
+51,🤒,U+1F912,face with thermometer,face-unwell,2.333,4.9,2.433,6.067,5.6,1.833
+52,🤕,U+1F915,face with head-bandage,face-unwell,1.967,2.76,2.75,6.267,5.357,2.296
+53,🤢,U+1F922,nauseated face,face-unwell,3.433,4.633,2.4,6.767,6.5,2.828
+54,🤮,U+1F92E,face vomiting,face-unwell,3.467,4.4,3.167,6.8,5.929,2.481
+55,🤧,U+1F927,sneezing face,face-unwell,2.286,4.172,3.038,5.667,5.586,2.067
+56,🥵,U+1F975,hot face,face-unwell,3.767,4.292,2.75,6.033,5.821,4
+57,🥶,U+1F976,cold face,face-unwell,2.3,4.154,2.9,6.733,7.207,3.533
+58,🥴,U+1F974,woozy face,face-unwell,3.724,4.32,3,4.828,4.929,5.815
+59,😵,U+1F635,knocked-out face,face-unwell,1.833,4.069,2.267,3.967,6.207,2.655
+61,🤯,U+1F92F,exploding head,face-unwell,3.733,4.56,3.708,5.367,6.071,4.407
+62,🤠,U+1F920,cowboy hat face,face-hat,1.379,2.522,2.333,4.267,3.808,6.333
+63,🥳,U+1F973,partying face,face-hat,4.533,5.867,2.867,6.767,6.4,8.333
+65,😎,U+1F60E,smiling face with sunglasses,face-glasses,3.538,4.933,2,5.2,4.759,7.367
+66,🤓,U+1F913,nerd face,face-glasses,2.269,3.9,1.9,4.333,4.586,6.037
+67,🧐,U+1F9D0,face with monocle,face-glasses,3.067,3.68,2.958,3.7,4.704,5.08
+68,😕,U+1F615,confused face,face-concerned,4,5.633,2.5,5.233,5.069,2.633
+69,😟,U+1F61F,worried face,face-concerned,3.133,5.385,2.3,5.233,6.517,2.767
+70,🙁,U+1F641,slightly frowning face,face-concerned,4.833,5.615,1.733,5.567,5.897,2.6
+72,😮,U+1F62E,face with open mouth,face-concerned,4.967,4.72,1.833,6.7,5.321,4.111
+73,😯,U+1F62F,hushed face,face-concerned,3.7,4.24,2.333,5.567,5.464,3.926
+74,😲,U+1F632,astonished face,face-concerned,4.067,5.633,1.933,6.3,6.1,4.167
+75,😳,U+1F633,flushed face,face-concerned,5.067,5.962,2.567,5.567,7.276,5.233
+76,🥺,U+1F97A,pleading face,face-concerned,4.964,6.367,3.308,5.033,5.034,2.833
+77,😦,U+1F626,frowning face with open mouth,face-concerned,4.067,5.577,1.9,5.3,6.138,3.5
+78,😧,U+1F627,anguished face,face-concerned,4.467,5.615,2.1,4.867,6.552,2.733
+79,😨,U+1F628,fearful face,face-concerned,3.321,5.067,3.385,5.8,6.862,2.3
+80,😰,U+1F630,anxious face with sweat,face-concerned,3.767,5.767,2.333,5.333,6.233,2.667
+81,😥,U+1F625,sad but relieved face,face-concerned,4.692,5.7,2.296,3.9,6.034,2.233
+82,😢,U+1F622,crying face,face-concerned,5.115,5.8,2.296,6.233,6.345,2.167
+83,😭,U+1F62D,loudly crying face,face-concerned,5.3,6.462,1.967,6.167,7.138,2
+84,😱,U+1F631,face screaming in fear,face-concerned,4.7,5.692,3.167,5.267,7.379,4
+85,😖,U+1F616,confounded face,face-concerned,3.36,3.967,2.815,5.633,7.069,2.1
+86,😣,U+1F623,persevering face,face-concerned,2.786,4.4,3.692,4.067,6.31,2.233
+87,😞,U+1F61E,disappointed face,face-concerned,4.333,5.6,1.433,5.967,5.167,1.8
+88,😓,U+1F613,downcast face with sweat,face-concerned,4.233,5.6,1.9,4.9,5.433,2.533
+89,😩,U+1F629,weary face,face-concerned,3.25,5.333,2.769,5.733,5.483,2.233
+90,😫,U+1F62B,tired face,face-concerned,4.231,5.333,1.852,5.767,6.586,2.6
+91,🥱,U+1F971,yawning face,face-concerned,3.214,5.033,3.04,6.567,2.172,4.133
+92,😤,U+1F624,face with steam from nose,face-negative,3.5,5.4,3.077,5.5,6.759,2.7
+93,😡,U+1F621,pouting face,face-negative,3.967,5.231,2.367,6.033,7.31,2.767
+94,😠,U+1F620,angry face,face-negative,4.167,3.76,2.625,6.733,6.071,3.222
+95,🤬,U+1F92C,face with symbols on mouth,face-negative,2.833,4,3.542,6.3,6.714,2.815
+96,😈,U+1F608,smiling face with horns,face-negative,2.967,3.56,3.917,5.533,6.63,4.37
+97,👿,U+1F47F,angry face with horns,face-negative,1.828,2.783,3.875,5.8,6.519,3.148
+98,💀,U+1F480,skull,face-negative,1.931,2.76,3.417,6.533,5.25,2.852
+100,💩,U+1F4A9,pile of poo,face-costume,3.538,5.2,2.222,2.5,5.276,5.633
+101,🤡,U+1F921,clown face,face-costume,1.962,5.143,3.84,3.367,5.786,4.933
+102,👹,U+1F479,ogre,face-costume,1.1,2.654,5,2.75,7.517,3.533
+103,👺,U+1F47A,goblin,face-costume,1.222,2.4,4.308,4.517,6.607,2.533
+104,👻,U+1F47B,ghost,face-costume,2.633,3.96,2.542,2.867,4.679,6.148
+105,👽,U+1F47D,alien,face-costume,1.5,3.733,2.808,4.267,5.929,4.967
+106,👾,U+1F47E,alien monster,face-costume,1.2,2.179,2.615,2.8,5.103,4.963
+107,🤖,U+1F916,robot,face-costume,1.241,2.08,4,3.643,4.286,4.815
+108,😺,U+1F63A,grinning cat,cat-face,2.231,3.9,2.407,5.333,4.655,6.867
+109,😸,U+1F638,grinning cat with smiling eyes,cat-face,1.8,4.133,2.667,5.467,4.667,6.733
+110,😹,U+1F639,cat with tears of joy,cat-face,2.962,5.033,2.63,6.1,5.103,7.867
+111,😻,U+1F63B,smiling cat with heart-eyes,cat-face,2.929,5.133,3.038,5.9,4.552,7.367
+112,😼,U+1F63C,cat with wry smile,cat-face,2.357,4.192,3.133,5.621,5.862,6.567
+113,😽,U+1F63D,kissing cat,cat-face,2.222,4,3.385,5.933,4.552,7.333
+114,🙀,U+1F640,weary cat,cat-face,2.2,3.32,3.333,4.3,5.143,5.222
+115,😿,U+1F63F,crying cat,cat-face,2.214,4.167,2.769,5.2,5.31,2.267
+116,😾,U+1F63E,pouting cat,cat-face,1.821,3.433,2.923,5.667,5.929,3.2
+117,🙈,U+1F648,see-no-evil monkey,monkey-face,3.423,5.167,3.593,5.5,4.759,6.933
+118,🙉,U+1F649,hear-no-evil monkey,monkey-face,2.5,3.96,3.5,3.867,4.214,6.778
+119,🙊,U+1F64A,speak-no-evil monkey,monkey-face,3.233,4.577,4.069,4.967,4.321,6.733
+120,💋,U+1F48B,kiss mark,emotion,2.538,4.333,1.963,3.9,5.69,7.3
+121,💌,U+1F48C,love letter,heart,1.036,2.435,2.133,5.75,5.536,7.379
+122,💘,U+1F498,heart with arrow,heart,3,4.731,1.933,5.467,5.517,7.733
+123,💝,U+1F49D,heart with ribbon,heart,2.269,3.8,2,5.367,4.517,7.6
+124,💖,U+1F496,sparkling heart,heart,3.833,5.8,1.667,4.933,4.967,7.967
+125,💗,U+1F497,growing heart,heart,3.3,4.462,1.967,4.857,5.172,7.567
+126,💓,U+1F493,beating heart,heart,3.433,4.44,2.167,4.567,5.786,7.519
+127,💞,U+1F49E,revolving hearts,heart,4.2,5.767,2.033,4.667,4.867,7.833
+128,💕,U+1F495,two hearts,heart,5.036,5.9,1.92,5.233,3.931,7.9
+129,💟,U+1F49F,heart decoration,heart,2.1,4.067,1.367,5.467,3.733,7.067
+131,💔,U+1F494,broken heart,heart,3.885,5.533,1.741,6.267,7.517,1.633
+134,❤,U+2764,red heart,heart,6.267,6.867,1.3,5.267,4.8,8.367
+135,🧡,U+1F9E1,orange heart,heart,3.2,5.133,1.233,3.8,4.367,7.6
+136,💛,U+1F49B,yellow heart,heart,2.867,5.1,1.167,4.067,4.667,7.31
+137,💚,U+1F49A,green heart,heart,2.714,5.034,1.769,3.103,3.724,7.167
+138,💙,U+1F499,blue heart,heart,3.429,5.103,1.692,2.7,3.345,7.586
+139,💜,U+1F49C,purple heart,heart,4.3,5.846,1.433,4.357,4.414,7.733
+140,🤎,U+1F90E,brown heart,heart,2.966,2.56,1.75,3.167,3.786,6.074
+141,🖤,U+1F5A4,black heart,heart,4.133,5.077,1.533,2.759,4.786,6.667
+142,🤍,U+1F90D,white heart,heart,2.862,4.633,1.207,3.467,3.9,7.379
+143,💯,U+1F4AF,hundred points,emotion,2.433,4.733,1.5,6.333,5.714,7.6
+144,💢,U+1F4A2,anger symbol,emotion,1.208,1.852,1.88,3.759,6.44,3.923
+145,💥,U+1F4A5,collision,emotion,2.1,3.92,1.917,4.433,6.357,4.704
+146,💫,U+1F4AB,dizzy,emotion,1.593,2.857,2.88,4.4,4.038,6.034
+147,💦,U+1F4A6,sweat droplets,emotion,2.071,4.933,2.192,2.267,4.964,5.533
+148,💨,U+1F4A8,dashing away,emotion,2.333,3.692,2.207,3,6.069,5.3
+149,🕳,U+1F573,hole,emotion,1.143,1.481,1.6,5.9,5.107,3.793
+150,💣,U+1F4A3,bomb,tool,1.393,3.867,2.423,4.933,6.966,3.433
+151,💬,U+1F4AC,speech balloon,emotion,1.32,2.9,1.741,6.1,5.138,5.267
+152,👁️‍🗨️,U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F,eye in speech bubble,emotion,1.037,1.44,1.897,2.4,4.318,4.36
+153,🗨,U+1F5E8,left speech bubble,emotion,1.167,2.567,1.2,5,4,5.2
+154,🗯,U+1F5EF,right anger bubble,emotion,1,2.586,1.692,2.897,4.852,4.897
+155,💭,U+1F4AD,thought balloon,emotion,1.321,3.4,1.92,5.448,3.643,5.8
+156,💤,U+1F4A4,zzz,emotion,3.321,4.967,1.885,6.567,2.276,6.667
+157,👋,U+1F44B,waving hand,hand-fingers-open,3.923,5.133,1.37,6.767,5.172,5.967
+158,🤚,U+1F91A,raised back of hand,hand-fingers-open,3.167,4.846,1.4,5.067,5.103,5.467
+159,🖐,U+1F590,hand with fingers splayed,hand-fingers-open,2.767,3.76,1.875,4.433,3.607,5.037
+160,✋,U+270B,raised hand,hand-fingers-open,3,5.346,1.633,5.31,4.655,5.233
+161,🖖,U+1F596,vulcan salute,hand-fingers-open,1.679,3.367,2.269,4.929,3.828,5.483
+162,👌,U+1F44C,OK hand,hand-fingers-partial,4.6,5.423,2.033,6.367,4.207,6.5
+164,🤏,U+1F90F,pinching hand,hand-fingers-partial,2.481,3.9,1.833,6.655,4.1,4.586
+165,✌,U+270C,victory hand,hand-fingers-partial,4.2,5.633,1.8,5.133,4.9,6.833
+166,🤞,U+1F91E,crossed fingers,hand-fingers-partial,3.833,4.92,2.792,6.233,5.107,6.296
+167,🤟,U+1F91F,love-you gesture,hand-fingers-partial,2.7,4.667,1.8,3.633,5,6.533
+168,🤘,U+1F918,sign of the horns,hand-fingers-partial,2.867,4.52,2.375,5.133,4.714,5.963
+169,🤙,U+1F919,call me hand,hand-fingers-partial,2.367,4.08,2.583,5.533,3.929,6.185
+170,👈,U+1F448,backhand index pointing left,hand-single-finger,2.367,3,1.75,5.067,3.464,5.192
+171,👉,U+1F449,backhand index pointing right,hand-single-finger,1.897,4.2,1.767,4.276,4.5,5.533
+172,👆,U+1F446,backhand index pointing up,hand-single-finger,2.033,3.567,1.467,5.333,4.172,4.964
+173,🖕,U+1F595,middle finger,hand-single-finger,4.154,4.433,1.444,6.2,6.759,3.5
+174,👇,U+1F447,backhand index pointing down,hand-single-finger,1.444,3.4,2.333,5.933,3.862,4.1
+175,☝,U+261D,index pointing up,hand-single-finger,2.5,3.533,2.074,6,5.207,5.167
+176,👍,U+1F44D,thumbs up,hand-fingers-closed,4.179,5.733,1.885,6.433,4.069,5.867
+177,👎,U+1F44E,thumbs down,hand-fingers-closed,2.733,5,1.533,6.138,5.966,2.767
+178,✊,U+270A,raised fist,hand-fingers-closed,1.767,4.308,2.633,4.276,5.786,5.5
+179,👊,U+1F44A,oncoming fist,hand-fingers-closed,3.467,5.115,2.167,5.3,6.69,4
+180,🤛,U+1F91B,left-facing fist,hand-fingers-closed,2.308,3.567,1.556,5.207,5.414,4.467
+181,🤜,U+1F91C,right-facing fist,hand-fingers-closed,2.333,4.115,2.5,4.793,6.379,5.103
+182,👏,U+1F44F,clapping hands,hands,4.607,5.6,2.346,6.1,5.103,6.7
+183,🙌,U+1F64C,raising hands,hands,2.933,5.154,2.367,4.172,4.893,5.733
+184,👐,U+1F450,open hands,hands,1.828,4.115,2,2.655,4.679,5.567
+185,🤲,U+1F932,palms up together,hands,1.464,3.72,2.133,3.379,3.964,5.414
+186,🤝,U+1F91D,handshake,hands,2,4.233,2.333,6.533,3.567,6.533
+187,🙏,U+1F64F,folded hands,hands,4.367,6.033,1.7,6.6,4.167,5.233
+188,✍,U+270D,writing hand,hand-prop,1.423,2.207,2.37,6.3,4.069,5
+189,💅,U+1F485,nail polish,hand-prop,1.767,3.923,2.8,5.233,3.552,6.4
+190,🤳,U+1F933,selfie,hand-prop,1.333,2.12,2.708,6,4.346,5.148
+191,💪,U+1F4AA,flexed biceps,body-parts,4.536,5.333,2.654,6.6,5.621,6.667
+192,🦾,U+1F9BE,mechanical arm,body-parts,1,1.241,3.84,5.931,4.724,4.483
+193,🦿,U+1F9BF,mechanical leg,body-parts,1.042,1.417,4.4,5.667,5,4.828
+194,🦵,U+1F9B5,leg,body-parts,1.115,1.3,2.852,6.448,5.345,5.3
+195,🦶,U+1F9B6,foot,body-parts,1.034,1.923,2.483,6.267,4.517,4.767
+196,👂,U+1F442,ear,body-parts,1.179,2.333,2.538,6.655,3.714,4.897
+197,🦻,U+1F9BB,ear with hearing aid,body-parts,1.172,1.455,4.5,6.931,4.111,3.885
+198,👃,U+1F443,nose,body-parts,1.241,2.577,2.138,6.5,4.276,4.793
+199,🧠,U+1F9E0,brain,body-parts,1.967,3.3,3.667,5.133,4.9,5.667
+202,🦷,U+1F9B7,tooth,body-parts,1.034,2.269,1.6,6.586,5.517,4.233
+203,🦴,U+1F9B4,bone,body-parts,1.115,1.414,1.222,6.933,4.448,5.233
+204,👀,U+1F440,eyes,body-parts,2.667,4.433,1.6,6.167,5.367,5.267
+205,👁,U+1F441,eye,body-parts,1.31,2.367,3.1,4.967,4.207,5.633
+206,👅,U+1F445,tongue,body-parts,2.429,4.5,2.385,4.967,5.207,6.9
+207,👄,U+1F444,mouth,body-parts,2.267,2.8,2.375,6.667,3.536,5.778
+208,👶,U+1F476,baby,person,1.8,2.04,3.292,6.207,4.571,6.37
+209,🧒,U+1F9D2,child,person,1.379,1.76,3.609,6.414,3.679,5.769
+210,👦,U+1F466,boy,person,1.24,2,3.111,6.133,4.552,6.3
+211,👧,U+1F467,girl,person,1.769,2.609,3.379,6.633,4.724,6.567
+212,🧑,U+1F9D1,person,person,1.111,2.214,3.28,4.367,3.929,5.233
+214,👨,U+1F468,man,person,1.071,2.2,3.6,6.367,4.069,5.552
+215,🧔,U+1F9D4,person: beard,person,1.241,2.28,3.767,6.517,4.034,5.828
+218,👨‍🦰,U+1F468 U+200D U+1F9B0,man: red hair,person,1.464,1.88,3.042,5.067,3.786,5.481
+219,👨‍🦱,U+1F468 U+200D U+1F9B1,man: curly hair,person,1.357,1.44,4.043,6.7,3.536,5.923
+220,👨‍🦳,U+1F468 U+200D U+1F9B3,man: white hair,person,1.267,2.586,3.467,6.567,3.367,5.931
+221,👨‍🦲,U+1F468 U+200D U+1F9B2,man: bald,person,1.048,1.32,1.962,6.433,4.655,4.793
+222,👩,U+1F469,woman,person,1.517,2.28,3.208,6.933,3.464,5.654
+223,👩‍🦰,U+1F469 U+200D U+1F9B0,woman: red hair,person,1.429,2.833,3.615,5.8,4.793,5.7
+225,👩‍🦱,U+1F469 U+200D U+1F9B1,woman: curly hair,person,1.308,2.222,3.667,6.6,3.857,6.034
+227,👩‍🦳,U+1F469 U+200D U+1F9B3,woman: white hair,person,1.483,1.545,3.667,6.621,3.571,5.923
+229,👩‍🦲,U+1F469 U+200D U+1F9B2,woman: bald,person,1.143,1.227,3.217,6.69,3.731,4.538
+231,👱‍♀️,U+1F471 U+200D U+2640 U+FE0F,woman: blond hair,person,1.724,2.96,3.379,6.033,3.793,5.9
+232,👱‍♂️,U+1F471 U+200D U+2642 U+FE0F,man: blond hair,person,1.2,1.862,2.778,6.333,3.793,6
+233,🧓,U+1F9D3,older person,person,1.185,2.2,3.8,6.567,3.071,5.967
+234,👴,U+1F474,old man,person,1.367,1.56,3.583,6.9,3.071,5.692
+235,👵,U+1F475,old woman,person,1.103,2.867,3.867,6.9,3.433,6.379
+236,🙍,U+1F64D,person frowning,person-gesture,1.621,3.448,3.3,5.103,5.724,3
+237,🙍‍♂️,U+1F64D U+200D U+2642 U+FE0F,man frowning,person-gesture,1.625,2.333,3.808,5.567,6.172,2.967
+239,🙎,U+1F64E,person pouting,person-gesture,2.655,2.348,3.826,5.167,5.179,3.481
+240,🙎‍♂️,U+1F64E U+200D U+2642 U+FE0F,man pouting,person-gesture,1.483,2.043,3.391,5.067,4.444,3.269
+242,🙅,U+1F645,person gesturing NO,person-gesture,2.533,4.2,4.267,5.9,5.533,4.483
+243,🙅‍♂️,U+1F645 U+200D U+2642 U+FE0F,man gesturing NO,person-gesture,1.25,3.448,3.615,5.867,5.37,3.931
+245,🙆,U+1F646,person gesturing OK,person-gesture,2.533,4.2,3.767,3.621,4.733,6.586
+246,🙆‍♂️,U+1F646 U+200D U+2642 U+FE0F,man gesturing OK,person-gesture,2.654,2.9,3.333,3.833,4.552,6.533
+249,💁‍♂️,U+1F481 U+200D U+2642 U+FE0F,man tipping hand,person-gesture,2.3,3.923,3.483,3.31,4.207,6.036
+250,💁‍♀️,U+1F481 U+200D U+2640 U+FE0F,woman tipping hand,person-gesture,3.7,3.72,3.542,3.367,3.889,5.885
+251,🙋,U+1F64B,person raising hand,person-gesture,3.769,4.967,3.185,5.667,4.655,6.7
+252,🙋‍♂️,U+1F64B U+200D U+2642 U+FE0F,man raising hand,person-gesture,2.923,3.897,3.222,5.7,4.345,6.333
+254,🧏,U+1F9CF,deaf person,person-gesture,1.087,1.72,4.2,5.033,4.417,5.893
+255,🧏‍♂️,U+1F9CF U+200D U+2642 U+FE0F,deaf man,person-gesture,1.37,1.524,4.292,4.31,4.037,5.269
+260,🤦,U+1F926,person facepalming,person-gesture,4.933,4.88,3.917,6.033,5,3.889
+261,🤦‍♂️,U+1F926 U+200D U+2642 U+FE0F,man facepalming,person-gesture,3.967,5.077,3.633,5.276,5.966,3.833
+263,🤷,U+1F937,person shrugging,person-gesture,4.724,5.5,3.633,6.2,5.433,3.933
+264,🤷‍♂️,U+1F937 U+200D U+2642 U+FE0F,man shrugging,person-gesture,4.077,4.7,4.259,6,5.276,3.3
+267,👨‍⚕️,U+1F468 U+200D U+2695 U+FE0F,man health worker,person-role,1.172,2.115,4.467,6.586,4.966,5.379
+268,👩‍⚕️,U+1F469 U+200D U+2695 U+FE0F,woman health worker,person-role,1.231,2.367,4.407,6.267,4.517,5.4
+270,👨‍🎓,U+1F468 U+200D U+1F393,man student,person-role,1.107,2.467,3.96,6.233,4.828,7.897
+271,👩‍🎓,U+1F469 U+200D U+1F393,woman student,person-role,1.5,3.1,4.167,6.3,5.133,7.867
+273,👨‍🏫,U+1F468 U+200D U+1F3EB,man teacher,person-role,1.433,1.667,4.708,6.733,4,5.704
+274,👩‍🏫,U+1F469 U+200D U+1F3EB,woman teacher,person-role,1.607,2.267,4.56,6.833,4.852,6.586
+276,👨‍⚖️,U+1F468 U+200D U+2696 U+FE0F,man judge,person-role,1,1.429,4.538,6.867,5.379,4.667
+277,👩‍⚖️,U+1F469 U+200D U+2696 U+FE0F,woman judge,person-role,1,1.31,4.37,6.933,5.517,5.033
+279,👨‍🌾,U+1F468 U+200D U+1F33E,man farmer,person-role,1,1.238,5.148,6.3,4.63,5.276
+280,👩‍🌾,U+1F469 U+200D U+1F33E,woman farmer,person-role,1,1.5,5.034,6.259,4.793,6.276
+282,👨‍🍳,U+1F468 U+200D U+1F373,man cook,person-role,1.038,1.84,4.233,6.733,4.31,6.833
+283,👩‍🍳,U+1F469 U+200D U+1F373,woman cook,person-role,1.833,1.875,4.458,6.833,3.815,6.111
+285,👨‍🔧,U+1F468 U+200D U+1F527,man mechanic,person-role,1,2,4.5,6.655,4.931,5.577
+286,👩‍🔧,U+1F469 U+200D U+1F527,woman mechanic,person-role,1,1.571,4.6,6.593,4.828,6.241
+288,👨‍🏭,U+1F468 U+200D U+1F3ED,man factory worker,person-role,1,1.13,4.875,4.808,3.889,5
+289,👩‍🏭,U+1F469 U+200D U+1F3ED,woman factory worker,person-role,1,1.828,4.8,4.893,4.5,5.286
+291,👨‍💼,U+1F468 U+200D U+1F4BC,man office worker,person-role,1.069,1.348,4.167,4.8,3.654,4.63
+292,👩‍💼,U+1F469 U+200D U+1F4BC,woman office worker,person-role,1.138,1.304,4.5,4.567,4.077,5.296
+294,👨‍🔬,U+1F468 U+200D U+1F52C,man scientist,person-role,1.179,2.267,5,6.7,4.786,5.345
+295,👩‍🔬,U+1F469 U+200D U+1F52C,woman scientist,person-role,1.077,1.833,4.889,6.633,4.552,6.267
+297,👨‍💻,U+1F468 U+200D U+1F4BB,man technologist,person-role,2.133,2.435,3.708,4.533,4.536,5.333
+298,👩‍💻,U+1F469 U+200D U+1F4BB,woman technologist,person-role,1.519,2.567,3.269,5.5,4.893,5.4
+300,👨‍🎤,U+1F468 U+200D U+1F3A4,man singer,person-role,1,1.615,4.8,6.714,5.464,6.444
+301,👩‍🎤,U+1F469 U+200D U+1F3A4,woman singer,person-role,1.036,2.179,4.567,6.69,5.714,6.679
+303,👨‍🎨,U+1F468 U+200D U+1F3A8,man artist,person-role,1.042,1.5,4.769,6.267,3.759,6.4
+304,👩‍🎨,U+1F469 U+200D U+1F3A8,woman artist,person-role,1,1.333,4,6.333,3.586,6.033
+306,👨‍✈️,U+1F468 U+200D U+2708 U+FE0F,man pilot,person-role,1,1.333,4.556,6.133,4.966,5.3
+307,👩‍✈️,U+1F469 U+200D U+2708 U+FE0F,woman pilot,person-role,1,1.286,4.32,6.3,4.852,5.414
+309,👨‍🚀,U+1F468 U+200D U+1F680,man astronaut,person-role,1,1.133,4.808,6.9,4.862,5.433
+310,👩‍🚀,U+1F469 U+200D U+1F680,woman astronaut,person-role,1,1.333,5.367,6.862,5.552,5.667
+312,👨‍🚒,U+1F468 U+200D U+1F692,man firefighter,person-role,1,1.321,4.72,6.933,5.308,5.448
+313,👩‍🚒,U+1F469 U+200D U+1F692,woman firefighter,person-role,1,1.296,4.769,6.667,5.793,6.167
+314,👮,U+1F46E,police officer,person-role,1.071,1.862,4.12,7,5.821,4.207
+316,👮‍♀️,U+1F46E U+200D U+2640 U+FE0F,woman police officer,person-role,1,1.69,4.36,6.967,5.444,4.414
+317,🕵,U+1F575,detective,person-role,1.633,2,4.083,6.567,4.429,5.593
+319,🕵️‍♀️,U+1F575 U+FE0F U+200D U+2640 U+FE0F,woman detective,person-role,1.138,2.138,4.4,6.833,4.464,5.31
+320,💂,U+1F482,guard,person-role,1.143,1.52,4.233,5.741,4.379,5.1
+322,💂‍♀️,U+1F482 U+200D U+2640 U+FE0F,woman guard,person-role,1,1.133,3.815,6.2,4.655,4.833
+324,👷,U+1F477,construction worker,person-role,1,1.414,4,6.733,4.815,5
+326,👷‍♀️,U+1F477 U+200D U+2640 U+FE0F,woman construction worker,person-role,1.2,1.4,4.042,6.433,3.821,5.346
+327,🤴,U+1F934,prince,person-role,1,1.074,4.36,5.828,4.586,5.034
+328,👸,U+1F478,princess,person-role,1,1.929,4.32,6.167,3.667,5.793
+329,👳,U+1F473,person wearing turban,person-role,1.241,1.5,3.625,6.6,4.222,4.48
+331,👳‍♀️,U+1F473 U+200D U+2640 U+FE0F,woman wearing turban,person-role,1.071,1.407,3.385,5.8,3.12,5.31
+332,👲,U+1F472,person with skullcap,person-role,1.071,1.607,3.567,4.63,3.621,5.286
+333,🧕,U+1F9D5,woman with headscarf,person-role,1.1,1.25,3.875,6.724,3.769,5.222
+334,🤵,U+1F935,person in tuxedo,person-role,1.138,1.48,4.125,6,4.37,5.63
+337,👰,U+1F470,person with veil,person-role,1.464,2.069,4.64,6.8,5.414,6.828
+340,🤰,U+1F930,pregnant woman,person-role,2.033,2.8,3.625,6.933,4.107,6.074
+341,🤱,U+1F931,breast-feeding,person-role,1.08,2.111,4.64,6.667,2.643,7.448
+345,👼,U+1F47C,baby angel,person-fantasy,2.133,3.2,3.967,5.3,3.5,6.793
+346,🎅,U+1F385,Santa Claus,person-fantasy,1.483,2.793,3.7,5.867,4.133,7.793
+347,🤶,U+1F936,Mrs. Claus,person-fantasy,1.111,1.913,4.828,3.643,2.862,7.133
+350,🦸‍♂️,U+1F9B8 U+200D U+2642 U+FE0F,man superhero,person-fantasy,1,1.222,5.375,6.6,5.32,5.286
+351,🦸‍♀️,U+1F9B8 U+200D U+2640 U+FE0F,woman superhero,person-fantasy,1,1.286,5.586,6.556,5.259,6.786
+353,🦹‍♂️,U+1F9B9 U+200D U+2642 U+FE0F,man supervillain,person-fantasy,1,1.318,5.5,5.857,5.043,4.435
+354,🦹‍♀️,U+1F9B9 U+200D U+2640 U+FE0F,woman supervillain,person-fantasy,1,1.091,5.4,5.333,5.909,5.481
+356,🧙‍♂️,U+1F9D9 U+200D U+2642 U+FE0F,man mage,person-fantasy,1.043,1.074,4.808,6.767,4.483,6.103
+357,🧙‍♀️,U+1F9D9 U+200D U+2640 U+FE0F,woman mage,person-fantasy,1.048,1.067,4.44,6.517,4.828,5.607
+359,🧚‍♂️,U+1F9DA U+200D U+2642 U+FE0F,man fairy,person-fantasy,1,1.19,4.762,5.517,4.571,5
+360,🧚‍♀️,U+1F9DA U+200D U+2640 U+FE0F,woman fairy,person-fantasy,1.296,2.095,4.958,6.4,3.667,6.5
+362,🧛‍♂️,U+1F9DB U+200D U+2642 U+FE0F,man vampire,person-fantasy,1.083,1.269,5.038,6.828,6.448,4.233
+363,🧛‍♀️,U+1F9DB U+200D U+2640 U+FE0F,woman vampire,person-fantasy,1.148,1.409,4.933,6.69,5.852,4.037
+364,🧜,U+1F9DC,merperson,person-fantasy,1.069,2,4.967,6.931,4.214,6.214
+365,🧜‍♂️,U+1F9DC U+200D U+2642 U+FE0F,merman,person-fantasy,1.034,1.667,4.967,5.821,4.393,6.407
+368,🧝‍♂️,U+1F9DD U+200D U+2642 U+FE0F,man elf,person-fantasy,1,2,4.862,6.821,4.714,5.31
+369,🧝‍♀️,U+1F9DD U+200D U+2640 U+FE0F,woman elf,person-fantasy,1,1.208,4.846,6.448,4.136,5.296
+371,🧞‍♂️,U+1F9DE U+200D U+2642 U+FE0F,man genie,person-fantasy,1.083,1.583,5.567,6.679,5.286,6.133
+372,🧞‍♀️,U+1F9DE U+200D U+2640 U+FE0F,woman genie,person-fantasy,1.038,1.409,5.36,5.1,4.75,5.786
+374,🧟‍♂️,U+1F9DF U+200D U+2642 U+FE0F,man zombie,person-fantasy,1.125,1.409,5.467,6.519,7.143,4.233
+375,🧟‍♀️,U+1F9DF U+200D U+2640 U+FE0F,woman zombie,person-fantasy,1.273,1.2,5.76,6.2,6.483,3.6
+377,💆‍♂️,U+1F486 U+200D U+2642 U+FE0F,man getting massage,person-activity,1.038,1.815,4.292,6.667,1.692,7.172
+378,💆‍♀️,U+1F486 U+200D U+2640 U+FE0F,woman getting massage,person-activity,1.542,1.679,3.962,6.467,1.966,7.034
+380,💇‍♂️,U+1F487 U+200D U+2642 U+FE0F,man getting haircut,person-activity,1.214,2.429,3.88,6.867,3.821,5.862
+381,💇‍♀️,U+1F487 U+200D U+2640 U+FE0F,woman getting haircut,person-activity,1.464,2.933,3.92,6.933,4.107,6.517
+383,🚶‍♂️,U+1F6B6 U+200D U+2642 U+FE0F,man walking,person-activity,1.321,3.2,3.077,6.767,3.586,5.8
+384,🚶‍♀️,U+1F6B6 U+200D U+2640 U+FE0F,woman walking,person-activity,1.667,2.923,3.267,6.467,4.379,5.897
+386,🧍‍♂️,U+1F9CD U+200D U+2642 U+FE0F,man standing,person-activity,1.179,1.731,3.464,6.148,4,5.483
+387,🧍‍♀️,U+1F9CD U+200D U+2640 U+FE0F,woman standing,person-activity,1.071,2.429,3.3,5.833,3.267,5.655
+389,🧎‍♂️,U+1F9CE U+200D U+2642 U+FE0F,man kneeling,person-activity,1,1.767,3.826,6.1,2.172,5
+390,🧎‍♀️,U+1F9CE U+200D U+2640 U+FE0F,woman kneeling,person-activity,1.071,1.643,3.48,6.2,2.034,5.345
+392,👨‍🦯,U+1F468 U+200D U+1F9AF,man with white cane,person-activity,1.04,1.444,4.4,6.9,4.48,4.345
+393,👩‍🦯,U+1F469 U+200D U+1F9AF,woman with white cane,person-activity,1.036,1.63,4.32,6.9,4.24,4.379
+395,👨‍🦼,U+1F468 U+200D U+1F9BC,man in motorized wheelchair,person-activity,1,1.52,4.577,6.867,4.16,3.966
+396,👩‍🦼,U+1F469 U+200D U+1F9BC,woman in motorized wheelchair,person-activity,1,1.583,4.733,6.821,5.034,3.967
+398,👨‍🦽,U+1F468 U+200D U+1F9BD,man in manual wheelchair,person-activity,1.038,1.917,4.5,6.8,5.345,4.567
+399,👩‍🦽,U+1F469 U+200D U+1F9BD,woman in manual wheelchair,person-activity,1.034,1.964,5.267,6.759,5.862,3.897
+401,🏃‍♂️,U+1F3C3 U+200D U+2642 U+FE0F,man running,person-activity,1.667,3.433,3.4,6.833,5.567,5.333
+402,🏃‍♀️,U+1F3C3 U+200D U+2640 U+FE0F,woman running,person-activity,1.857,3.067,3.577,6.667,5.536,5.5
+403,💃,U+1F483,woman dancing,person-activity,2.533,4.16,4.208,6.167,5.571,6.704
+404,🕺,U+1F57A,man dancing,person-activity,1.192,1.167,4.5,6.276,5.379,6.241
+405,🕴,U+1F574,person in suit levitating,person-activity,1,1.462,4.833,3.889,4.32,4.577
+406,👯,U+1F46F,people with bunny ears,person-activity,2,3.633,4.333,4.467,5.533,6.867
+410,🧖‍♂️,U+1F9D6 U+200D U+2642 U+FE0F,man in steamy room,person-activity,1.269,1.75,5.179,5.321,1.607,6.778
+411,🧖‍♀️,U+1F9D6 U+200D U+2640 U+FE0F,woman in steamy room,person-activity,1.1,1.75,5.08,5,2.107,7.143
+413,🧗‍♂️,U+1F9D7 U+200D U+2642 U+FE0F,man climbing,person-activity,1,1.179,5.24,5.862,5.655,5.536
+414,🧗‍♀️,U+1F9D7 U+200D U+2640 U+FE0F,woman climbing,person-activity,1,1.714,5.276,6.143,6.64,6.034
+415,🤺,U+1F93A,person fencing,person-sport,1,1.25,5,6.931,4.259,4.923
+416,🏇,U+1F3C7,horse racing,person-sport,1.133,1.375,5.042,6.833,4.571,4.889
+418,🏂,U+1F3C2,snowboarder,person-sport,1.069,1.88,4.3,6.828,5.345,6.533
+420,🏌️‍♂️,U+1F3CC U+FE0F U+200D U+2642 U+FE0F,man golfing,person-sport,1,1.458,4.739,6.9,3.929,4.76
+421,🏌️‍♀️,U+1F3CC U+FE0F U+200D U+2640 U+FE0F,woman golfing,person-sport,1,1.5,4.962,6.933,4.462,5.033
+423,🏄‍♂️,U+1F3C4 U+200D U+2642 U+FE0F,man surfing,person-sport,1.038,1.667,4.654,6.767,5.483,6.2
+424,🏄‍♀️,U+1F3C4 U+200D U+2640 U+FE0F,woman surfing,person-sport,1.179,2.069,4.6,7,4.704,6.276
+426,🚣‍♂️,U+1F6A3 U+200D U+2642 U+FE0F,man rowing boat,person-sport,1.034,1.724,4.6,5.867,2.733,5.893
+427,🚣‍♀️,U+1F6A3 U+200D U+2640 U+FE0F,woman rowing boat,person-sport,1,1.917,4.667,5.5,3.655,6.138
+429,🏊‍♂️,U+1F3CA U+200D U+2642 U+FE0F,man swimming,person-sport,1.385,2.333,4.074,6.8,4.897,5.8
+430,🏊‍♀️,U+1F3CA U+200D U+2640 U+FE0F,woman swimming,person-sport,1.3,2.308,3.828,6.6,4.241,6.267
+432,⛹️‍♂️,U+26F9 U+FE0F U+200D U+2642 U+FE0F,man bouncing ball,person-sport,1.033,2.867,4.2,6.733,5.067,5.714
+433,⛹️‍♀️,U+26F9 U+FE0F U+200D U+2640 U+FE0F,woman bouncing ball,person-sport,1.32,1.5,4.111,6.733,6.034,6.367
+435,🏋️‍♂️,U+1F3CB U+FE0F U+200D U+2642 U+FE0F,man lifting weights,person-sport,1.5,2.767,4.111,6.467,6.379,5.833
+436,🏋️‍♀️,U+1F3CB U+FE0F U+200D U+2640 U+FE0F,woman lifting weights,person-sport,1.533,2.2,4.542,6.6,5.679,6.037
+438,🚴‍♂️,U+1F6B4 U+200D U+2642 U+FE0F,man biking,person-sport,1.423,2.724,4.296,6.833,5.517,6.067
+439,🚴‍♀️,U+1F6B4 U+200D U+2640 U+FE0F,woman biking,person-sport,1.286,2.433,3.692,6.967,5.179,5.867
+441,🚵‍♂️,U+1F6B5 U+200D U+2642 U+FE0F,man mountain biking,person-sport,1.143,2.567,4.538,6.9,5.393,5.933
+442,🚵‍♀️,U+1F6B5 U+200D U+2640 U+FE0F,woman mountain biking,person-sport,1.2,2.733,5.533,6.567,5.333,5.724
+444,🤸‍♂️,U+1F938 U+200D U+2642 U+FE0F,man cartwheeling,person-sport,1.414,2.655,4.1,6.333,5.867,6.931
+445,🤸‍♀️,U+1F938 U+200D U+2640 U+FE0F,woman cartwheeling,person-sport,1.2,1.828,4.385,6.267,5.828,6.9
+447,🤼‍♂️,U+1F93C U+200D U+2642 U+FE0F,men wrestling,person-sport,1.143,1.32,5.25,6.69,4.889,4.6
+448,🤼‍♀️,U+1F93C U+200D U+2640 U+FE0F,women wrestling,person-sport,1,1.043,5.042,6.833,5.52,4.607
+449,🤽,U+1F93D,person playing water polo,person-sport,1,1.75,4.7,6.793,4.69,5.931
+452,🤾,U+1F93E,person playing handball,person-sport,1.083,1.385,4.556,6.5,5.931,5.8
+455,🤹,U+1F939,person juggling,person-sport,1.04,1.333,4.933,6.857,4.966,6.414
+459,🧘‍♂️,U+1F9D8 U+200D U+2642 U+FE0F,man in lotus position,person-resting,1.037,1.964,3.875,6.833,1.815,6.133
+460,🧘‍♀️,U+1F9D8 U+200D U+2640 U+FE0F,woman in lotus position,person-resting,1.429,2.276,3.96,6.833,1.793,5.9
+461,🛀,U+1F6C0,person taking bath,person-resting,1.143,2.067,3.423,6.733,1.966,7.724
+462,🛌,U+1F6CC,person in bed,person-resting,1.103,2.172,3.4,6.367,2.267,6.793
+463,🧑‍🤝‍🧑,U+1F9D1 U+200D U+1F91D U+200D U+1F9D1,people holding hands,family,1.222,3,4.48,5.567,4.5,6.7
+464,👭,U+1F46D,women holding hands,family,1.586,2.522,3.304,6.067,3.607,5.852
+465,👫,U+1F46B,woman and man holding hands,family,1.929,3.533,4.16,5.633,2.964,7.067
+466,👬,U+1F46C,men holding hands,family,1.276,1.885,3.667,5.833,3.828,6.828
+468,👩‍❤️‍💋‍👨,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,"kiss: woman, man",family,2.759,3.56,3.957,6.733,4.821,7.296
+469,👨‍❤️‍💋‍👨,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,"kiss: man, man",family,1.321,2.72,3.414,6.655,3.931,7.5
+470,👩‍❤️‍💋‍👩,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469,"kiss: woman, woman",family,1.222,2.966,4.04,6.767,3.143,7.167
+471,💑,U+1F491,couple with heart,family,2.517,3.64,3.625,6.6,4.929,7.444
+473,👨‍❤️‍👨,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468,"couple with heart: man, man",family,1.179,2.867,3.333,6.533,3.6,7.867
+474,👩‍❤️‍👩,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469,"couple with heart: woman, woman",family,1.346,2.267,2.889,6.7,3.828,8.333
+475,👪,U+1F46A,family,family,2,2.625,4.917,6.621,3.643,6.889
+476,👨‍👩‍👦,U+1F468 U+200D U+1F469 U+200D U+1F466,"family: man, woman, boy",family,1.607,3.067,4.76,6.567,3.207,7.133
+477,👨‍👩‍👧,U+1F468 U+200D U+1F469 U+200D U+1F467,"family: man, woman, girl",family,1.679,3.067,4.76,6.533,3.034,7.267
+478,👨‍👩‍👧‍👦,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,"family: man, woman, girl, boy",family,1.567,3.038,4.276,6.655,3.552,7.567
+479,👨‍👩‍👦‍👦,U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,"family: man, woman, boy, boy",family,1.379,3.1,5.033,6.833,4.167,7.8
+480,👨‍👩‍👧‍👧,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,"family: man, woman, girl, girl",family,1.633,2.44,4.333,6.567,3.571,7
+481,👨‍👨‍👦,U+1F468 U+200D U+1F468 U+200D U+1F466,"family: man, man, boy",family,1.12,1.517,4.593,6.133,3.103,7.867
+482,👨‍👨‍👧,U+1F468 U+200D U+1F468 U+200D U+1F467,"family: man, man, girl",family,1.12,1.379,4.741,5.9,3.172,7.967
+483,👨‍👨‍👧‍👦,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466,"family: man, man, girl, boy",family,1.067,2.633,4.933,6.8,3.633,7.833
+484,👨‍👨‍👦‍👦,U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466,"family: man, man, boy, boy",family,1.185,2.143,4.84,6.4,2.964,7.133
+485,👨‍👨‍👧‍👧,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467,"family: man, man, girl, girl",family,1.04,1.333,4.185,5.9,2.931,7.933
+486,👩‍👩‍👦,U+1F469 U+200D U+1F469 U+200D U+1F466,"family: woman, woman, boy",family,1.533,2.167,4.367,6.467,3.464,7.586
+487,👩‍👩‍👧,U+1F469 U+200D U+1F469 U+200D U+1F467,"family: woman, woman, girl",family,1.04,1.3,3.926,5.8,3.103,7.9
+488,👩‍👩‍👧‍👦,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,"family: woman, woman, girl, boy",family,1.296,2.767,5.24,6.333,3.621,7.367
+489,👩‍👩‍👦‍👦,U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,"family: woman, woman, boy, boy",family,1.133,1.652,4.435,6.133,3.464,6.667
+490,👩‍👩‍👧‍👧,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,"family: woman, woman, girl, girl",family,1.042,1.633,4.154,6.1,3.241,7.867
+491,👨‍👦,U+1F468 U+200D U+1F466,"family: man, boy",family,1.038,1.167,3.593,6,3.207,7.333
+492,👨‍👦‍👦,U+1F468 U+200D U+1F466 U+200D U+1F466,"family: man, boy, boy",family,1.077,1.3,4.296,6.3,3.172,7.6
+493,👨‍👧,U+1F468 U+200D U+1F467,"family: man, girl",family,1.038,1.233,3.593,6.1,3,7.333
+494,👨‍👧‍👦,U+1F468 U+200D U+1F467 U+200D U+1F466,"family: man, girl, boy",family,1.433,1.792,4.625,5.9,3.679,5.963
+495,👨‍👧‍👧,U+1F468 U+200D U+1F467 U+200D U+1F467,"family: man, girl, girl",family,1.241,2.115,4.167,6.3,3.586,7.517
+496,👩‍👦,U+1F469 U+200D U+1F466,"family: woman, boy",family,1.4,1.958,4.25,5.933,3.429,6.185
+497,👩‍👦‍👦,U+1F469 U+200D U+1F466 U+200D U+1F466,"family: woman, boy, boy",family,1.222,2.276,4.4,6.4,3.071,6.933
+498,👩‍👧,U+1F469 U+200D U+1F467,"family: woman, girl",family,1.6,1.76,3.875,5.8,2.964,6.593
+499,👩‍👧‍👦,U+1F469 U+200D U+1F467 U+200D U+1F466,"family: woman, girl, boy",family,1.2,2.769,4.133,6.333,3.448,7.621
+500,👩‍👧‍👧,U+1F469 U+200D U+1F467 U+200D U+1F467,"family: woman, girl, girl",family,1.241,2.828,5.1,6.5,4,7.3
+502,👤,U+1F464,bust in silhouette,person-symbol,1,2.069,1.333,5.767,4.571,4.207
+503,👥,U+1F465,busts in silhouette,person-symbol,1,2.069,2.304,4.7,3.893,4.296
+505,👣,U+1F463,footprints,person-symbol,1.308,1.967,1.407,6.867,4.241,5.4
+506,🦰,U+1F9B0,red hair,hair-style,1,1.083,1.923,5.75,4.103,4.69
+507,🦱,U+1F9B1,curly hair,hair-style,1,1.118,2.864,4.231,3.45,4.476
+508,🦳,U+1F9B3,white hair,hair-style,1.238,1.5,2.464,6.5,4.04,4.64
+509,🦲,U+1F9B2,bald,hair-style,1,1.08,1.4,5,4.741,3.885
+510,🐵,U+1F435,monkey face,animal-mammal,1.733,2.88,3.542,6.067,3.571,6.926
+511,🐒,U+1F412,monkey,animal-mammal,1.467,3.167,4.033,6.5,4.233,5.733
+512,🦍,U+1F98D,gorilla,animal-mammal,1.077,1.467,3.889,6.867,5.862,5.133
+513,🦧,U+1F9A7,orangutan,animal-mammal,1.111,1.571,4.2,6.9,4.615,5.241
+514,🐶,U+1F436,dog face,animal-mammal,1.483,2.5,3.533,6.379,3.966,7.3
+515,🐕,U+1F415,dog,animal-mammal,1.808,2.724,3.778,6.967,4.517,7.6
+516,🦮,U+1F9AE,guide dog,animal-mammal,1.276,1.1,4.917,6.964,3.083,6.111
+517,🐕‍🦺,U+1F415 U+200D U+1F9BA,service dog,animal-mammal,1,1.345,4.519,6.103,5.069,7.467
+518,🐩,U+1F429,poodle,animal-mammal,1.793,2.04,4,6.8,4.214,6.185
+519,🐺,U+1F43A,wolf,animal-mammal,1.267,2.28,3.458,6.467,4.179,6.259
+520,🦊,U+1F98A,fox,animal-mammal,1.321,2.9,3.077,6.8,4.571,5.733
+521,🦝,U+1F99D,raccoon,animal-mammal,1.207,1.833,3.542,6.933,3.714,6.111
+522,🐱,U+1F431,cat face,animal-mammal,1.552,3.115,3.167,6.517,3.483,6.667
+523,🐈,U+1F408,cat,animal-mammal,1.207,2.533,3.833,6.933,3.767,5.967
+525,🦁,U+1F981,lion,animal-mammal,1.5,3.067,2.926,6.8,5.241,6.5
+526,🐯,U+1F42F,tiger face,animal-mammal,1.423,2.2,2.926,6.533,4.517,6.467
+527,🐅,U+1F405,tiger,animal-mammal,1,2.115,4.733,6.9,6.621,5.767
+528,🐆,U+1F406,leopard,animal-mammal,1.103,1.88,4.625,7,4.607,5.704
+529,🐴,U+1F434,horse face,animal-mammal,1.267,2.433,3.533,6,3.333,6.31
+530,🐎,U+1F40E,horse,animal-mammal,1.033,1.846,4.167,6.862,5.655,6.633
+531,🦄,U+1F984,unicorn,animal-mammal,1.536,3.393,4.48,6.9,4.31,6.552
+532,🦓,U+1F993,zebra,animal-mammal,1,1.967,4.867,6.967,3.767,5.667
+533,🦌,U+1F98C,deer,animal-mammal,1.069,1.538,4.067,6.931,5.31,5.967
+535,🐮,U+1F42E,cow face,animal-mammal,1.067,2.167,3.067,6.467,3.633,5.833
+536,🐂,U+1F402,ox,animal-mammal,1.069,1.96,4.208,6.933,4.259,5.333
+537,🐃,U+1F403,water buffalo,animal-mammal,1.12,1.3,3.778,6.767,6.172,4.433
+538,🐄,U+1F404,cow,animal-mammal,1.448,2.08,3.75,7,2.929,5.63
+539,🐷,U+1F437,pig face,animal-mammal,1.615,2.933,2.926,6.633,4.414,6.2
+540,🐖,U+1F416,pig,animal-mammal,1.367,2.346,3.833,6.767,4.759,5.733
+541,🐗,U+1F417,boar,animal-mammal,1.034,2.12,4.375,6.9,4.857,5.148
+542,🐽,U+1F43D,pig nose,animal-mammal,1.667,2.808,1.8,6.767,4.966,5.633
+543,🐏,U+1F40F,ram,animal-mammal,1,1.767,3.385,6.69,4.778,4.7
+544,🐑,U+1F411,ewe,animal-mammal,1.077,1.5,2.481,7,3.414,5.724
+545,🐐,U+1F410,goat,animal-mammal,1.2,1.933,3.933,6.933,4.033,5.31
+546,🐪,U+1F42A,camel,animal-mammal,1.067,2.1,3.667,6.8,3.9,5.167
+547,🐫,U+1F42B,two-hump camel,animal-mammal,1.071,1.692,4.034,6.933,4.483,5.833
+548,🦙,U+1F999,llama,animal-mammal,1.172,1.458,3.292,7,3.429,5.923
+549,🦒,U+1F992,giraffe,animal-mammal,1.071,1.767,3.269,7,3.857,5.667
+550,🐘,U+1F418,elephant,animal-mammal,1,2.233,3.538,7,4.414,6.276
+552,🦏,U+1F98F,rhinoceros,animal-mammal,1.038,1.333,3.852,6.9,5.724,5.033
+553,🦛,U+1F99B,hippopotamus,animal-mammal,1,1.633,4.1,6.933,5.133,4.467
+554,🐭,U+1F42D,mouse face,animal-mammal,1.4,2.269,3.5,6.75,5.897,5.367
+555,🐁,U+1F401,mouse,animal-mammal,1.214,2.2,3.077,6.9,5.643,3.933
+556,🐀,U+1F400,rat,animal-mammal,1.033,2.154,3.433,6.833,6.724,4.1
+557,🐹,U+1F439,hamster,animal-mammal,1.538,2.467,2.444,6.467,3.724,6.533
+558,🐰,U+1F430,rabbit face,animal-mammal,1.269,1.933,2.519,6.667,3.172,6.8
+559,🐇,U+1F407,rabbit,animal-mammal,1.107,1.759,3.192,6.967,3.241,6.367
+562,🦔,U+1F994,hedgehog,animal-mammal,1.286,2.267,3.885,6.967,4.241,6.067
+563,🦇,U+1F987,bat,animal-mammal,1.103,1.52,4.133,6.862,6.448,4.167
+564,🐻,U+1F43B,bear,animal-mammal,1.615,2.4,2.333,6.867,4.69,6.967
+566,🐨,U+1F428,koala,animal-mammal,1.429,2.767,3.24,6.933,3.517,5.7
+567,🐼,U+1F43C,panda,animal-mammal,1.577,2.233,3.074,6.933,3.793,6.567
+568,🦥,U+1F9A5,sloth,animal-mammal,1.138,2.433,3.733,6.9,2.793,5.655
+569,🦦,U+1F9A6,otter,animal-mammal,1.179,1.88,4.414,6.259,3.483,6.867
+570,🦨,U+1F9A8,skunk,animal-mammal,1.036,1.731,4,6.828,5.138,5.133
+571,🦘,U+1F998,kangaroo,animal-mammal,1.034,1.967,4.033,7,4.414,6.107
+572,🦡,U+1F9A1,badger,animal-mammal,1,1.478,4.033,6.077,4.931,5.31
+573,🐾,U+1F43E,paw prints,animal-mammal,1.577,2.767,1.741,6.8,3.862,7.3
+574,🦃,U+1F983,turkey,animal-bird,1,1.655,5,6.933,4.692,4.655
+575,🐔,U+1F414,chicken,animal-bird,1.269,2.069,2.741,6.867,4.483,4.9
+576,🐓,U+1F413,rooster,animal-bird,1.033,1.846,4.1,6.897,5.241,5.5
+577,🐣,U+1F423,hatching chick,animal-bird,1.483,3.067,3,5.733,3.867,6.733
+578,🐤,U+1F424,baby chick,animal-bird,1.367,3.154,1.767,6.8,3.828,5.933
+579,🐥,U+1F425,front-facing baby chick,animal-bird,1.966,3.269,2.69,6.767,3.966,6.933
+580,🐦,U+1F426,bird,animal-bird,1.308,1.586,2.889,6.9,3.172,6.2
+581,🐧,U+1F427,penguin,animal-bird,1.241,2.667,2.933,7,3.467,6.433
+583,🦅,U+1F985,eagle,animal-bird,1,1.808,3.933,6.9,6.414,5.633
+584,🦆,U+1F986,duck,animal-bird,1.2,2.12,3.583,6.967,2.893,5.778
+585,🦢,U+1F9A2,swan,animal-bird,1.069,1.64,3.375,6.933,2.607,6.111
+586,🦉,U+1F989,owl,animal-bird,1.3,1.6,4.083,7,3.357,5.926
+589,🦩,U+1F9A9,flamingo,animal-bird,1.133,2.7,3.8,7,3.867,6.267
+590,🦚,U+1F99A,peacock,animal-bird,1.037,2.167,4.846,6.933,4.069,5.533
+591,🦜,U+1F99C,parrot,animal-bird,1.038,1.423,3.84,6.667,3.577,6
+592,🐸,U+1F438,frog,animal-amphibian,1.154,2.2,2.926,6.867,4.483,5.241
+593,🐊,U+1F40A,crocodile,animal-reptile,1,2,4.633,6.967,5.867,4.133
+594,🐢,U+1F422,turtle,animal-reptile,1.321,2.433,3.692,7,3.172,6.138
+595,🦎,U+1F98E,lizard,animal-reptile,1.037,1.92,3.8,6.5,6,5.467
+596,🐍,U+1F40D,snake,animal-reptile,1.4,2.2,2.458,6.9,5.25,4.222
+597,🐲,U+1F432,dragon face,animal-reptile,1.042,1.556,5.08,6.533,6.071,4.586
+598,🐉,U+1F409,dragon,animal-reptile,1.125,1.5,5.231,6.933,6.034,4.567
+599,🦕,U+1F995,sauropod,animal-reptile,1.1,1.5,2.583,6.933,3.815,5.593
+600,🦖,U+1F996,T-Rex,animal-reptile,1.069,2,4.267,6.9,5.655,4.379
+601,🐳,U+1F433,spouting whale,animal-marine,1.115,1.483,2.963,6.733,4.103,6.4
+602,🐋,U+1F40B,whale,animal-marine,1.033,2.233,3.8,6.967,4.367,5.967
+603,🐬,U+1F42C,dolphin,animal-marine,1.1,2.567,3.833,6.967,3.8,6.6
+605,🐟,U+1F41F,fish,animal-marine,1.346,1.367,3.111,6.933,3.69,5.9
+606,🐠,U+1F420,tropical fish,animal-marine,1.269,1.533,3.667,6.133,3.414,6.333
+607,🐡,U+1F421,blowfish,animal-marine,1.036,1.8,4.267,6.897,5.75,6.367
+608,🦈,U+1F988,shark,animal-marine,1,1.731,3.724,6.867,6.931,4.767
+609,🐙,U+1F419,octopus,animal-marine,1.367,2,4.345,6.967,4.759,6.033
+610,🐚,U+1F41A,spiral shell,animal-marine,1.333,1.56,2.625,6.933,2,6.259
+611,🐌,U+1F40C,snail,animal-bug,1.033,2.233,3.433,6.967,3.067,4.967
+612,🦋,U+1F98B,butterfly,animal-bug,1.828,3.067,4.9,6.967,2.8,7.133
+613,🐛,U+1F41B,bug,animal-bug,1,1.52,3.5,6.733,4.333,4.655
+614,🐜,U+1F41C,ant,animal-bug,1.103,1.708,4.033,6.833,5.586,5.1
+615,🐝,U+1F41D,honeybee,animal-bug,1.214,1.52,4.417,6.967,4.75,4.556
+617,🐞,U+1F41E,lady beetle,animal-bug,1.107,1.767,3.208,7,3.25,5.897
+618,🦗,U+1F997,cricket,animal-bug,1.074,1.321,3.96,6.767,6,3.31
+622,🦂,U+1F982,scorpion,animal-bug,1.077,1.143,3.24,6.567,6.241,4.367
+623,🦟,U+1F99F,mosquito,animal-bug,1,1.652,5,6.517,7.138,2.7
+626,🦠,U+1F9A0,microbe,animal-bug,1.357,3.16,3.267,5.586,6.897,3.643
+627,💐,U+1F490,bouquet,plant-flower,1.321,2.867,3.967,2.5,2.9,7.033
+628,🌸,U+1F338,cherry blossom,plant-flower,2.5,3.533,2.815,2.967,2.69,7.1
+629,💮,U+1F4AE,white flower,plant-flower,1.043,1.087,3.929,1.952,3.95,4.783
+631,🌹,U+1F339,rose,plant-flower,2.033,4.154,4.1,3.733,3.379,7.2
+632,🥀,U+1F940,wilted flower,plant-flower,1.621,3.538,3.2,4.067,3.966,3.667
+633,🌺,U+1F33A,hibiscus,plant-flower,2.077,3.367,3.074,2.667,2.931,6.733
+634,🌻,U+1F33B,sunflower,plant-flower,2.192,2.967,3.259,2.4,3.379,7.067
+635,🌼,U+1F33C,blossom,plant-flower,2.467,2.72,3.208,2.276,2.821,7.269
+636,🌷,U+1F337,tulip,plant-flower,1.731,2.933,2.741,2.833,2.966,6.966
+637,🌱,U+1F331,seedling,plant-other,1.308,1.967,1.185,4.333,3.552,5.9
+639,🌲,U+1F332,evergreen tree,plant-other,1.533,2.48,2.583,5.133,3.393,6.037
+640,🌳,U+1F333,deciduous tree,plant-other,1.034,2.423,2.067,3.828,2.448,6.567
+641,🌴,U+1F334,palm tree,plant-other,1.654,2.483,2.63,4.733,2.552,7.233
+642,🌵,U+1F335,cactus,plant-other,1.4,1.96,2.5,4.567,3.571,5.333
+643,🌾,U+1F33E,sheaf of rice,plant-other,1.286,1.966,2.4,5.067,2.75,5.621
+644,🌿,U+1F33F,herb,plant-other,1.759,2.292,1.917,6.241,2.929,5.667
+646,🍀,U+1F340,four leaf clover,plant-other,2.9,3.96,1.875,6.667,4,7.259
+647,🍁,U+1F341,maple leaf,plant-other,1.933,3.2,2.5,5.767,3.179,5.185
+648,🍂,U+1F342,fallen leaf,plant-other,1.414,3.467,2.333,6,3.069,6.167
+649,🍃,U+1F343,leaf fluttering in wind,plant-other,1.586,2.667,2.867,3.767,3.444,5.621
+650,🍇,U+1F347,grapes,food-fruit,1.267,1.64,2.833,7,2.786,6
+651,🍈,U+1F348,melon,food-fruit,1.143,1.654,3.464,4.586,4.259,5.52
+652,🍉,U+1F349,watermelon,food-fruit,1.333,2.967,2.433,7,3.9,6.833
+653,🍊,U+1F34A,tangerine,food-fruit,1.067,2.533,1.967,6.233,3.5,5.833
+654,🍋,U+1F34B,lemon,food-fruit,1.3,2.462,2.033,7,4.241,5.5
+655,🍌,U+1F34C,banana,food-fruit,1.655,3.2,2.833,7,3.429,5.444
+656,🍍,U+1F34D,pineapple,food-fruit,1.3,2.56,2.833,7,3.179,6.333
+657,🥭,U+1F96D,mango,food-fruit,1.115,1.862,2.37,6.667,4.036,5.207
+658,🍎,U+1F34E,red apple,food-fruit,1.103,3.067,1.4,6.933,3.2,6.033
+659,🍏,U+1F34F,green apple,food-fruit,1.533,2.84,1.917,7,3.107,5.852
+660,🍐,U+1F350,pear,food-fruit,1.192,2.233,1.815,6.867,3.655,5.233
+661,🍑,U+1F351,peach,food-fruit,2.654,3.9,2.111,6.367,4,6.133
+662,🍒,U+1F352,cherries,food-fruit,1.633,3.367,1.833,7,3.667,6.633
+663,🍓,U+1F353,strawberry,food-fruit,1.167,3.1,2.567,7,3.767,6.833
+665,🥝,U+1F95D,kiwi fruit,food-fruit,1.2,2,2.708,7,2.714,5.519
+666,🍅,U+1F345,tomato,food-fruit,1.25,2.6,2.231,6.967,3.69,5.267
+668,🥥,U+1F965,coconut,food-fruit,1.222,2.267,2.48,7,3.448,5.567
+669,🥑,U+1F951,avocado,food-vegetable,1.321,3.567,2.68,6.967,3.586,5.767
+670,🍆,U+1F346,eggplant,food-vegetable,1.433,3.633,1.7,6.667,4.867,5.7
+671,🥔,U+1F954,potato,food-vegetable,1.036,1.571,2.115,6.767,3.379,5.615
+672,🥕,U+1F955,carrot,food-vegetable,1.1,2.4,2,7,3.5,5.2
+673,🌽,U+1F33D,ear of corn,food-vegetable,1,1.8,2.36,6.967,3.655,5.034
+676,🥒,U+1F952,cucumber,food-vegetable,1.103,2.231,2.379,6.767,4.034,5.533
+677,🥬,U+1F96C,leafy green,food-vegetable,1.036,1.44,3.417,6.107,2.889,4.269
+678,🥦,U+1F966,broccoli,food-vegetable,1.179,1.933,2.44,7,3.821,4.367
+679,🧄,U+1F9C4,garlic,food-vegetable,1.172,1.08,2.125,7,3.429,4.154
+680,🧅,U+1F9C5,onion,food-vegetable,1,1.967,2.233,6.833,4.034,4.067
+681,🍄,U+1F344,mushroom,plant-other,1.069,2.103,1.833,6.667,4.2,5.4
+682,🥜,U+1F95C,peanuts,food-vegetable,1.133,1.56,2.625,7,3.25,5.407
+683,🌰,U+1F330,chestnut,food-vegetable,1.267,2.333,1.967,6.933,3.6,5.966
+684,🍞,U+1F35E,bread,food-prepared,1.133,2.367,1.8,6.933,2.967,5.759
+685,🥐,U+1F950,croissant,food-prepared,1.286,2.241,2.28,6.933,3.69,7.069
+686,🥖,U+1F956,baguette bread,food-prepared,1.067,2.346,1.9,7,3.966,6.067
+688,🥨,U+1F968,pretzel,food-prepared,1.071,1.75,2.24,6.6,3.5,5.414
+689,🥯,U+1F96F,bagel,food-prepared,1.037,1.913,2.9,5.069,4.357,6.6
+690,🥞,U+1F95E,pancakes,food-prepared,1.5,2.52,4.042,6.967,4.143,6.963
+691,🧇,U+1F9C7,waffle,food-prepared,1.077,1.741,3.24,6.9,3.552,7.167
+692,🧀,U+1F9C0,cheese wedge,food-prepared,1.333,2.667,2.567,7,3.933,6
+693,🍖,U+1F356,meat on bone,food-prepared,1.037,1.679,2.962,6.733,4.148,5.655
+694,🍗,U+1F357,poultry leg,food-prepared,1.167,2.84,1.917,6.233,3.714,5.808
+695,🥩,U+1F969,cut of meat,food-prepared,1.067,1.542,2.917,6.767,3.962,5.074
+696,🥓,U+1F953,bacon,food-prepared,1.192,1.533,3.222,6.9,4.517,5.633
+697,🍔,U+1F354,hamburger,food-prepared,1.733,2.96,4,6.967,4.5,7
+698,🍟,U+1F35F,french fries,food-prepared,1.667,3.538,2.7,6.967,5.069,6.967
+699,🍕,U+1F355,pizza,food-prepared,2.267,4.5,2.6,6.9,5.241,7.367
+700,🌭,U+1F32D,hot dog,food-prepared,1.615,2.567,2.815,6.9,4.897,6.433
+701,🥪,U+1F96A,sandwich,food-prepared,1.154,2.333,4.467,6.933,4.679,6.533
+702,🌮,U+1F32E,taco,food-prepared,1.138,2.385,3,6.759,4.69,6.767
+703,🌯,U+1F32F,burrito,food-prepared,1.308,2.417,4.3,6.2,4.458,7
+705,🥙,U+1F959,stuffed flatbread,food-prepared,1.179,2.2,3.767,6.519,4.25,6.9
+707,🥚,U+1F95A,egg,food-prepared,1.172,2.633,1.233,7,3.633,5.4
+708,🍳,U+1F373,cooking,food-prepared,1.269,2.103,2.963,4.667,4.345,6.2
+709,🥘,U+1F958,shallow pan of food,food-prepared,1.448,2.125,4.167,6.933,3.889,6.692
+710,🍲,U+1F372,pot of food,food-prepared,1.071,1.552,3.958,6,3.458,5.966
+712,🥣,U+1F963,bowl with spoon,food-prepared,1.276,1.478,2.417,5.357,3.25,4.111
+713,🥗,U+1F957,green salad,food-prepared,1.167,2.16,4.042,6.967,3.036,5.148
+714,🍿,U+1F37F,popcorn,food-prepared,1.5,3.423,2.8,6.967,4.276,7.2
+715,🧈,U+1F9C8,butter,food-prepared,1,1.071,2.037,6.4,4.069,4.966
+716,🧂,U+1F9C2,salt,food-prepared,1.067,1.72,3.333,6.8,3.714,4.741
+717,🥫,U+1F96B,canned food,food-prepared,1,1.538,3.333,6.4,3.538,5.071
+720,🍙,U+1F359,rice ball,food-asian,1.067,2.24,2.458,5.897,4,5.885
+721,🍚,U+1F35A,cooked rice,food-asian,1.367,1.64,2.5,6.367,3.286,5.538
+722,🍛,U+1F35B,curry rice,food-asian,1.069,1.867,4.2,6.7,4.207,5.821
+723,🍜,U+1F35C,steaming bowl,food-asian,1.069,1.962,4.667,6.433,4.75,6.333
+724,🍝,U+1F35D,spaghetti,food-asian,1.222,2.267,3.923,6.933,3.852,7.276
+725,🍠,U+1F360,roasted sweet potato,food-asian,1,1.333,2.63,5.267,4,5.429
+727,🍣,U+1F363,sushi,food-asian,1.5,2.28,3.417,6.967,3.714,5.704
+728,🍤,U+1F364,fried shrimp,food-asian,1.071,2.3,2.846,6.7,3.964,5.9
+732,🥟,U+1F95F,dumpling,food-asian,1.042,1.917,3.72,5.552,4.524,5.607
+734,🥡,U+1F961,takeout box,food-asian,1,1.391,3.25,6.207,4.565,5.741
+735,🦀,U+1F980,crab,food-marine,1.111,1.793,3.538,6.967,4.714,4.69
+736,🦞,U+1F99E,lobster,food-marine,1.033,1.64,3.958,6.833,3.926,5.444
+737,🦐,U+1F990,shrimp,food-marine,1.034,1.4,5.071,6.655,5.286,4.967
+738,🦑,U+1F991,squid,food-marine,1.111,1.467,3.6,6.8,4.222,5.1
+739,🦪,U+1F9AA,oyster,food-marine,1,1.08,4.1,6.241,3.8,5.65
+740,🍦,U+1F366,soft ice cream,food-sweet,1.071,1.833,2.385,6.833,3.321,7.276
+742,🍨,U+1F368,ice cream,food-sweet,1.167,1.96,3.5,6.9,4.143,6.962
+743,🍩,U+1F369,doughnut,food-sweet,1.379,2.769,2.567,7,4.448,7.2
+744,🍪,U+1F36A,cookie,food-sweet,1.345,3.5,3.367,6.9,4.379,6.667
+745,🎂,U+1F382,birthday cake,food-sweet,2.533,4.2,2.567,6.483,5.069,7.267
+746,🍰,U+1F370,shortcake,food-sweet,1.767,2.846,2.4,6.033,4.483,6.833
+747,🧁,U+1F9C1,cupcake,food-sweet,1.267,2.538,2.9,6.233,4.448,6.7
+748,🥧,U+1F967,pie,food-sweet,1.143,1.923,2.692,6.733,3.571,6.733
+749,🍫,U+1F36B,chocolate bar,food-sweet,1.655,3.577,2.133,6.967,4.724,7.267
+750,🍬,U+1F36C,candy,food-sweet,1.24,1.067,2.192,6.7,4.069,6.067
+751,🍭,U+1F36D,lollipop,food-sweet,1.1,2.379,3.267,6.933,4.067,6.367
+752,🍮,U+1F36E,custard,food-sweet,1.033,2.5,2.633,7,3.833,5.9
+753,🍯,U+1F36F,honey pot,food-sweet,1,1.429,2.84,6.7,3.586,5.138
+754,🍼,U+1F37C,baby bottle,drink,1.107,1.828,2.231,5.3,3.607,6.4
+755,🥛,U+1F95B,glass of milk,drink,1.036,1.933,1.885,6.467,2.793,5.867
+756,☕,U+2615,hot beverage,drink,1.808,3.6,2.037,6.5,4.793,5.533
+758,🍵,U+1F375,teacup without handle,drink,1,1.333,2.233,4.167,3.481,4.111
+760,🍾,U+1F37E,bottle with popping cork,drink,1.92,3.267,2.852,5.667,6.138,6.8
+761,🍷,U+1F377,wine glass,drink,1.333,3.6,2.1,6.867,4.467,6.233
+762,🍸,U+1F378,cocktail glass,drink,1.333,3.567,3.115,6.833,5.655,6.7
+763,🍹,U+1F379,tropical drink,drink,1.433,3,3.567,5.867,4.633,7.241
+764,🍺,U+1F37A,beer mug,drink,2.633,4.867,2.767,7,5.3,7.033
+765,🍻,U+1F37B,clinking beer mugs,drink,2.267,4.577,3.2,6.633,4.793,7.2
+766,🥂,U+1F942,clinking glasses,drink,1.893,4,2.423,6.633,5.185,7
+767,🥃,U+1F943,tumbler glass,drink,1.143,2.138,2.667,5.7,4.679,5.69
+768,🥤,U+1F964,cup with straw,drink,1.154,1.241,1.667,6.6,4.034,6.067
+770,🧃,U+1F9C3,beverage box,drink,1,2,4.433,6.933,3.769,5.385
+772,🧊,U+1F9CA,ice,drink,1.167,1.68,3.542,6.933,3.885,5.077
+773,🥢,U+1F962,chopsticks,dishware,1,1.417,1.897,6.467,4.741,5.643
+775,🍴,U+1F374,fork and knife,dishware,1.32,2.333,2.407,6.867,4.414,6.367
+776,🥄,U+1F944,spoon,dishware,1.115,1.433,1.556,7,3.621,5.367
+777,🔪,U+1F52A,kitchen knife,dishware,1.433,2.567,1.833,6.967,5.667,3.6
+778,🏺,U+1F3FA,amphora,dishware,1,1.103,2.654,4.067,3.966,4.414
+779,🌍,U+1F30D,globe showing Europe-Africa,place-map,1.923,3.267,2.741,5.533,4.241,6.4
+780,🌎,U+1F30E,globe showing Americas,place-map,1.655,3.615,2.4,4.367,5,6.367
+781,🌏,U+1F30F,globe showing Asia-Australia,place-map,1.967,2.84,3.583,3.862,3.321,6.37
+782,🌐,U+1F310,globe with meridians,place-map,1,1.692,2.267,4.967,4.704,5.654
+785,🧭,U+1F9ED,compass,place-map,1.222,1.391,4.667,3.893,4.222,4.731
+788,🌋,U+1F30B,volcano,place-geographic,1.1,1.8,5.3,6.9,6.103,3.552
+789,🗻,U+1F5FB,mount fuji,place-geographic,1.167,2.2,4.367,6.767,3.6,6.367
+798,🧱,U+1F9F1,brick,place-building,1,1.077,1.885,4.3,4.2,4.786
+804,🏠,U+1F3E0,house,place-building,1.714,3.067,2.654,6.9,2.429,6.467
+805,🏡,U+1F3E1,house with garden,place-building,1.345,3.733,3.167,6,2.733,6.367
+806,🏢,U+1F3E2,office building,place-building,1,1.552,3.259,5.567,4.429,4.963
+807,🏣,U+1F3E3,Japanese post office,place-building,1,1.92,3.862,2.724,5.185,5.214
+808,🏤,U+1F3E4,post office,place-building,1,1.238,4.5,3.52,5.423,4.864
+809,🏥,U+1F3E5,hospital,place-building,1.077,2.167,3.222,6.867,5.621,3.633
+810,🏦,U+1F3E6,bank,place-building,1,1.655,3.967,6.067,4.345,5.733
+811,🏨,U+1F3E8,hotel,place-building,1.133,1.708,3.708,6.267,4.714,4.037
+813,🏪,U+1F3EA,convenience store,place-building,1,1.435,3.586,5.962,5.643,5.448
+814,🏫,U+1F3EB,school,place-building,1.1,1.68,3.833,5.667,4.214,4.889
+815,🏬,U+1F3EC,department store,place-building,1,1.5,3.69,3.034,4.652,4.375
+816,🏭,U+1F3ED,factory,place-building,1,1.409,4.034,6.379,5.846,4.103
+818,🏰,U+1F3F0,castle,place-building,1.04,1.345,3.593,6.833,4.034,5.8
+819,💒,U+1F492,wedding,place-building,1.033,1.8,3.522,4.724,4.214,5.444
+821,🗽,U+1F5FD,Statue of Liberty,place-building,1.043,1.241,4.704,6.767,4.5,6.069
+822,⛪,U+26EA,church,place-religious,1,1.731,3.7,6.643,3.276,4.3
+823,🕌,U+1F54C,mosque,place-religious,1,1.125,5.069,6.393,4.655,5.733
+824,🛕,U+1F6D5,hindu temple,place-religious,1,1.042,5.458,5.739,4.32,4.609
+825,🕍,U+1F54D,synagogue,place-religious,1,1.179,4.222,5.556,3.821,4.862
+828,⛲,U+26F2,fountain,place-other,1,1.333,3.417,6.9,3,5.75
+829,⛺,U+26FA,tent,place-other,1.233,2.2,4.4,6.567,2.433,7.034
+830,🌁,U+1F301,foggy,place-other,1.067,1.8,5.033,5.633,4,5.552
+831,🌃,U+1F303,night with stars,place-other,1.552,2.667,4.967,6.033,2.6,6.533
+833,🌄,U+1F304,sunrise over mountains,place-other,1.231,1.8,4.704,6.367,3.207,7.333
+834,🌅,U+1F305,sunrise,place-other,1.769,3,5,6.107,2,8.3
+835,🌆,U+1F306,cityscape at dusk,place-other,1.179,2.3,3.346,5.5,3.393,6.133
+836,🌇,U+1F307,sunset,place-other,1.231,1.6,4.185,5.667,2.828,6.966
+837,🌉,U+1F309,bridge at night,place-other,1.276,1.84,5.292,6.433,3,6.519
+839,🎠,U+1F3A0,carousel horse,place-other,1,1.708,5.083,4.379,4.536,5.593
+840,🎡,U+1F3A1,ferris wheel,place-other,1,1.607,3.192,4.933,4.5,6.25
+841,🎢,U+1F3A2,roller coaster,place-other,1.207,2.367,4.333,4.867,6.69,6.8
+842,💈,U+1F488,barber pole,place-other,1.071,2.133,2.346,5.2,3.852,4.964
+843,🎪,U+1F3AA,circus tent,place-other,1.345,2.276,3.7,4.367,5.067,5.8
+844,🚂,U+1F682,locomotive,transport-ground,1.077,1.367,3,6.5,5.069,5.567
+845,🚃,U+1F683,railway car,transport-ground,1.077,1.633,2.731,6.267,4.862,5.267
+846,🚄,U+1F684,high-speed train,transport-ground,1.033,2.308,2.607,5.464,5.655,5.733
+848,🚆,U+1F686,train,transport-ground,1.192,2.033,3.231,6.633,5.345,5.267
+849,🚇,U+1F687,metro,transport-ground,1,1.76,3.4,6.357,6,5.207
+852,🚊,U+1F68A,tram,transport-ground,1.115,1.967,3.154,6.033,5.034,5.233
+855,🚋,U+1F68B,tram car,transport-ground,1,1.6,3.423,6.5,4.593,4.931
+857,🚍,U+1F68D,oncoming bus,transport-ground,1.036,2.067,3.615,6.333,4.621,4.862
+858,🚎,U+1F68E,trolleybus,transport-ground,1.036,1.429,3.423,5.042,4.286,5.103
+860,🚑,U+1F691,ambulance,transport-ground,1.2,2.4,3.917,6.967,6.321,3.037
+861,🚒,U+1F692,fire engine,transport-ground,1,1.517,3.577,6.933,5.643,4.5
+863,🚔,U+1F694,oncoming police car,transport-ground,1.033,2.04,3.042,6.867,5.071,4.259
+865,🚖,U+1F696,oncoming taxi,transport-ground,1.3,2.346,3.172,6.828,5.552,5.467
+867,🚘,U+1F698,oncoming automobile,transport-ground,1.833,4.138,2.633,6.9,4.833,6.241
+870,🚚,U+1F69A,delivery truck,transport-ground,1.071,2.25,3.733,5.5,4.552,5.069
+872,🚜,U+1F69C,tractor,transport-ground,1.3,1.84,3.542,6.867,3.714,5.111
+875,🛵,U+1F6F5,motor scooter,transport-ground,1.1,2.333,3.233,6.733,4.6,5.6
+876,🦽,U+1F9BD,manual wheelchair,transport-ground,1.172,1.52,4.333,7,5.214,2.852
+877,🦼,U+1F9BC,motorized wheelchair,transport-ground,1,1.333,5.6,6.379,5.552,3.69
+879,🚲,U+1F6B2,bicycle,transport-ground,1.367,2.733,3.167,7,4.6,5.433
+880,🛴,U+1F6F4,kick scooter,transport-ground,1,1.48,2.9,6.897,4.103,5.233
+881,🛹,U+1F6F9,skateboard,transport-ground,1.214,1.967,1.767,7,4.3,4.931
+887,⛽,U+26FD,fuel pump,transport-ground,1.037,1.304,3.033,6.655,4.821,5.1
+888,🚨,U+1F6A8,police car light,transport-ground,1,1.769,3.267,6.067,7.679,3.767
+890,🚦,U+1F6A6,vertical traffic light,transport-ground,1.167,1.56,1.917,7,3.964,4.481
+891,🛑,U+1F6D1,stop sign,transport-ground,1,1.483,1.556,4.667,5.607,3.793
+892,🚧,U+1F6A7,construction,transport-ground,1,1.214,2.5,5.9,5.448,4.034
+893,⚓,U+2693,anchor,transport-water,1.241,2.633,2.067,5.967,3.6,5.533
+894,⛵,U+26F5,sailboat,transport-water,1.033,2.1,2.667,6.1,3.867,5.933
+895,🛶,U+1F6F6,canoe,transport-water,1.133,1.333,2.583,6.357,3.25,5.296
+896,🚤,U+1F6A4,speedboat,transport-water,1,1.897,2.433,5.467,3.833,5.793
+900,🚢,U+1F6A2,ship,transport-water,1.071,1.933,4.52,6.533,4.724,6.138
+903,🛫,U+1F6EB,airplane departure,transport-air,1.367,2.793,3.667,6.567,4.621,6.733
+904,🛬,U+1F6EC,airplane arrival,transport-air,1.464,2.4,4.154,6.633,6.286,7
+905,🪂,U+1FA82,parachute,transport-air,1,1.571,4.4,6.867,6.593,5.862
+906,💺,U+1F4BA,seat,transport-air,1,1.292,3.333,6.586,3.407,5.08
+907,🚁,U+1F681,helicopter,transport-air,1,1.517,3.269,7,5.25,5.103
+909,🚠,U+1F6A0,mountain cableway,transport-air,1,1.567,3.033,6.6,4.724,5.207
+912,🚀,U+1F680,rocket,transport-air,1.143,2.8,4,6.833,6,5.433
+913,🛸,U+1F6F8,flying saucer,transport-air,1.077,1.464,3.808,6.733,5.655,4.679
+915,🧳,U+1F9F3,luggage,hotel,1.222,2.821,3.4,6.5,4.759,6.893
+917,⏳,U+23F3,hourglass not done,time,1.615,2.367,2.667,5.967,5.138,4.467
+918,⌚,U+231A,watch,time,1.103,1.68,2.5,6.733,3.679,4.593
+919,⏰,U+23F0,alarm clock,time,1.231,2.433,2.296,6.1,6.069,3.767
+920,⏱,U+23F1,stopwatch,time,1.077,1.867,3.704,6.533,5.759,4.567
+924,🕧,U+1F567,twelve-thirty,time,1.033,2.808,1.7,6.633,5.172,4.793
+925,🕐,U+1F550,one o’clock,time,1.036,2.233,2.154,6.767,3.5,4.967
+926,🕜,U+1F55C,one-thirty,time,1.276,2.32,2.083,6.333,4.25,4.074
+927,🕑,U+1F551,two o’clock,time,1.192,2.133,2.333,6.033,5.31,4.667
+928,🕝,U+1F55D,two-thirty,time,1.2,2.667,1.6,6.233,4.3,4.933
+929,🕒,U+1F552,three o’clock,time,1.133,3.077,2.103,6.655,6.034,4.828
+930,🕞,U+1F55E,three-thirty,time,1,2.167,2,6.7,3.714,4.633
+931,🕓,U+1F553,four o’clock,time,1.133,3,2.034,6.667,6.241,4.724
+932,🕟,U+1F55F,four-thirty,time,1.233,2.833,1.567,6.267,4.367,4.867
+933,🕔,U+1F554,five o’clock,time,1.233,2.345,1.467,6.367,4.3,5.033
+934,🕠,U+1F560,five-thirty,time,1.038,2,1.741,5.967,5.207,4.733
+935,🕕,U+1F555,six o’clock,time,1.067,2.615,1.867,6.5,5.621,4.862
+936,🕡,U+1F561,six-thirty,time,1,2.233,2.115,6.633,3.714,4.5
+937,🕖,U+1F556,seven o’clock,time,1.231,2,1.778,6.033,5.276,4.867
+938,🕢,U+1F562,seven-thirty,time,1.179,1.833,2,6.167,3.679,4.148
+939,🕗,U+1F557,eight o’clock,time,1.1,2.846,1.967,6.633,5.69,4.793
+940,🕣,U+1F563,eight-thirty,time,1.033,2.808,1.733,6.667,5.172,4.897
+941,🕘,U+1F558,nine o’clock,time,1,2.8,2.038,6.8,3.893,4.633
+942,🕤,U+1F564,nine-thirty,time,1.077,2.067,2.481,6.067,5.483,4.7
+943,🕙,U+1F559,ten o’clock,time,1.172,1.958,2.208,6.433,3.893,4.111
+944,🕥,U+1F565,ten-thirty,time,1.077,1.9,1.815,6.1,5.31,4.9
+945,🕚,U+1F55A,eleven o’clock,time,1.241,2,1.958,6.333,3.964,4.37
+946,🕦,U+1F566,eleven-thirty,time,1.115,1.9,1.741,5.933,5.414,4.967
+947,🌑,U+1F311,new moon,sky & weather,1.241,2.654,2.138,5.733,3,5.966
+948,🌒,U+1F312,waxing crescent moon,sky & weather,2,2.76,2.958,6.036,2.857,5.963
+949,🌓,U+1F313,first quarter moon,sky & weather,1.333,2.567,2.808,6.464,3.429,5.367
+950,🌔,U+1F314,waxing gibbous moon,sky & weather,1.286,2.3,2.88,6.179,2.964,5.633
+951,🌕,U+1F315,full moon,sky & weather,1.808,2.4,1.963,6.833,3.31,6.333
+952,🌖,U+1F316,waning gibbous moon,sky & weather,1.7,2.4,3.125,6.429,2.75,6
+953,🌗,U+1F317,last quarter moon,sky & weather,1.6,2.56,2.958,6.321,2.893,6
+954,🌘,U+1F318,waning crescent moon,sky & weather,1.286,2.28,2.7,5.931,2.857,5.862
+955,🌙,U+1F319,crescent moon,sky & weather,2.433,5,1.2,4.067,2.667,6.567
+956,🌚,U+1F31A,new moon face,sky & weather,2.241,3.962,3.069,4.586,3.31,6.967
+957,🌛,U+1F31B,first quarter moon face,sky & weather,1.7,2.625,2.5,3.483,2.786,6.222
+958,🌜,U+1F31C,last quarter moon face,sky & weather,1.923,2.767,2.115,3.733,2.679,6
+961,🌝,U+1F31D,full moon face,sky & weather,2.077,3.5,2.296,3.552,3.931,6.433
+962,🌞,U+1F31E,sun with face,sky & weather,2.679,3.633,2.077,4.233,3.679,7.241
+963,🪐,U+1FA90,ringed planet,sky & weather,1.633,1.917,4.375,6.7,3.481,5.704
+964,⭐,U+2B50,star,sky & weather,1.9,3.28,1.333,3.103,3.393,6.852
+965,🌟,U+1F31F,glowing star,sky & weather,2.167,3.68,1.833,2.464,3.667,6.185
+966,🌠,U+1F320,shooting star,sky & weather,1.846,2.667,3.111,3.1,3.345,6.667
+967,🌌,U+1F30C,milky way,sky & weather,1.63,2.609,5.696,5.607,2.714,7.63
+969,⛅,U+26C5,sun behind cloud,sky & weather,1.367,3.5,1.733,6.733,3.793,5.767
+981,🌈,U+1F308,rainbow,sky & weather,1.385,3.633,2.8,4.786,3.552,7.467
+982,🌂,U+1F302,closed umbrella,sky & weather,1.067,2.133,1.967,6.8,3.067,4.9
+984,☔,U+2614,umbrella with rain drops,sky & weather,1.533,3.367,2.6,6.733,4.067,4.6
+986,⚡,U+26A1,high voltage,sky & weather,2.067,4.154,1.467,3.6,6.655,5.767
+989,⛄,U+26C4,snowman without snow,sky & weather,1.357,2.5,3.32,4.767,3.464,6.967
+991,🔥,U+1F525,fire,sky & weather,3.731,5.567,1.296,6.3,6.724,5.867
+992,💧,U+1F4A7,droplet,sky & weather,1.733,3.833,1.267,6.533,3.167,5.267
+993,🌊,U+1F30A,water wave,sky & weather,2.067,3.12,3.458,6.7,4.5,6.556
+994,🎃,U+1F383,jack-o-lantern,event,1.286,3.448,3.8,5.667,5.069,5.5
+995,🎄,U+1F384,Christmas tree,event,1.7,3.231,3.621,6.467,4.828,7.6
+998,🧨,U+1F9E8,firecracker,event,1.233,2.167,2.417,4.667,5.893,4.185
+999,✨,U+2728,sparkles,event,3.643,5.467,2.308,3.833,3.483,7.033
+1000,🎈,U+1F388,balloon,event,1.607,3.4,2.32,5.167,3.966,6.367
+1001,🎉,U+1F389,party popper,event,4.231,5.4,2.778,6.633,7.31,8.167
+1002,🎊,U+1F38A,confetti ball,event,3.533,5.077,2.267,6.633,6.793,7.667
+1004,🎍,U+1F38D,pine decoration,event,1,1.083,4.565,4.552,2.636,5.308
+1005,🎎,U+1F38E,Japanese dolls,event,1.04,1.308,4.96,3.4,2.423,4.64
+1010,🎀,U+1F380,ribbon,event,1.067,2.654,1.621,2.893,3.897,5.9
+1011,🎁,U+1F381,wrapped gift,event,1.867,3,2.292,6.833,5.321,6.815
+1012,🎗,U+1F397,reminder ribbon,event,1.321,3.36,1.6,6.179,5.828,6.483
+1014,🎫,U+1F3AB,ticket,event,1,1.815,3.731,4.862,4.185,6.571
+1016,🏆,U+1F3C6,trophy,award-medal,1.286,2.967,2.269,5.9,5.586,6.9
+1017,🏅,U+1F3C5,sports medal,award-medal,1.167,2.36,1.667,5.786,5.857,7
+1018,🥇,U+1F947,1st place medal,award-medal,1.233,2.346,2,6.552,6.31,7.467
+1019,🥈,U+1F948,2nd place medal,award-medal,1,1.731,1.633,6.793,5.793,6.467
+1020,🥉,U+1F949,3rd place medal,award-medal,1.077,1.2,1.778,6.6,4.655,5.333
+1021,⚽,U+26BD,soccer ball,sport,1.769,3.7,1.741,6.3,5.414,5.733
+1022,⚾,U+26BE,baseball,sport,1.038,1.552,2.148,6.233,5.138,5.267
+1024,🏀,U+1F3C0,basketball,sport,1.233,2.16,1.875,6.667,3.964,5.37
+1025,🏐,U+1F3D0,volleyball,sport,1.067,2.077,2.167,6.267,5.586,5.933
+1026,🏈,U+1F3C8,american football,sport,1,1.633,2.367,6.433,4.467,5.1
+1027,🏉,U+1F3C9,rugby football,sport,1,1.967,2.4,6.567,4.4,5.138
+1028,🎾,U+1F3BE,tennis,sport,1.077,1.733,2.593,6.633,4.897,5.633
+1030,🎳,U+1F3B3,bowling,sport,1.107,1.897,2.88,6.833,5.071,6.9
+1031,🏏,U+1F3CF,cricket game,sport,1,1.208,2.724,6.429,5.214,5.259
+1033,🏒,U+1F3D2,ice hockey,sport,1,1.143,2.269,5.833,5.138,5.2
+1035,🏓,U+1F3D3,ping pong,sport,1.033,1.56,1.917,6.767,4.286,5.444
+1036,🏸,U+1F3F8,badminton,sport,1,1.357,2.5,6.933,4.741,5.233
+1037,🥊,U+1F94A,boxing glove,sport,1,1.583,3.292,6.483,4.593,4.692
+1038,🥋,U+1F94B,martial arts uniform,sport,1,1.542,3.767,6.233,5.828,5.133
+1039,🥅,U+1F945,goal net,sport,1.103,1.64,2.565,6.759,4,5.36
+1040,⛳,U+26F3,flag in hole,sport,1,1.3,1.963,6.267,4.241,5.2
+1042,🎣,U+1F3A3,fishing pole,sport,1.828,2.4,4.867,6.767,5.286,5.552
+1043,🤿,U+1F93F,diving mask,sport,1.067,1.2,2.583,6.6,3.385,5.385
+1044,🎽,U+1F3BD,running shirt,sport,1,1.667,2.667,3.25,3.724,5.154
+1045,🎿,U+1F3BF,skis,sport,1,1.929,5.1,6.036,4.32,5.692
+1046,🛷,U+1F6F7,sled,sport,1,1.217,3.042,6.414,4.259,5.48
+1047,🥌,U+1F94C,curling stone,sport,1,1.107,1.909,6.15,4.542,4.833
+1048,🎯,U+1F3AF,bullseye,game,1.385,1.933,2.519,6.467,5.138,5.367
+1049,🪀,U+1FA80,yo-yo,game,1,1.391,2.72,6.967,3.577,5.241
+1050,🪁,U+1FA81,kite,game,1,1.25,2.462,5.862,4.036,5.7
+1051,🎱,U+1F3B1,pool 8 ball,game,1.143,1.733,1.885,6.667,4.75,4.867
+1052,🔮,U+1F52E,crystal ball,game,1.233,2.3,3.067,5.6,3.821,6
+1054,🧿,U+1F9FF,nazar amulet,other-object,1.083,1.455,2.36,4.16,4.625,5.571
+1055,🎮,U+1F3AE,video game,game,1.2,2.68,2.708,5.2,4.821,5.667
+1057,🎰,U+1F3B0,slot machine,game,1.034,1.542,4,5.448,4.643,3.926
+1058,🎲,U+1F3B2,game die,game,1.067,1.88,2.208,5.567,3.407,5.222
+1059,🧩,U+1F9E9,puzzle piece,game,1.071,1.478,2.069,4.889,4.481,5.069
+1060,🧸,U+1F9F8,teddy bear,game,1.379,2,2.958,4.069,2.481,6.778
+1068,🃏,U+1F0CF,joker,game,1.111,1.556,3.6,5.033,4.333,5.429
+1071,🎭,U+1F3AD,performing arts,arts & crafts,1.167,2.733,2,5.9,5.429,6.067
+1073,🎨,U+1F3A8,artist palette,arts & crafts,1.037,2.4,2.769,5.5,3.759,6.517
+1074,🧵,U+1F9F5,thread,arts & crafts,1,1.724,2.4,5.167,3.929,4.966
+1076,🧶,U+1F9F6,yarn,arts & crafts,1,1.185,2.556,4.333,3.483,5.167
+1078,👓,U+1F453,glasses,clothing,1.1,1.808,1.6,6.967,4.069,5.267
+1079,🕶,U+1F576,sunglasses,clothing,1.138,2.4,1.633,6.933,3.767,5.586
+1080,🥽,U+1F97D,goggles,clothing,1.037,1.929,2.533,6.793,3.857,4.621
+1081,🥼,U+1F97C,lab coat,clothing,1.071,1.84,3,4.724,4.724,4.867
+1082,🦺,U+1F9BA,safety vest,clothing,1.037,1.208,3.25,4.1,3.84,4.346
+1083,👔,U+1F454,necktie,clothing,1,1.31,1.963,4.433,4.207,4.7
+1084,👕,U+1F455,t-shirt,clothing,1.038,1.4,1.444,7,3.931,5
+1085,👖,U+1F456,jeans,clothing,1,2.077,2.241,6.867,3.897,5.533
+1086,🧣,U+1F9E3,scarf,clothing,1,1.357,2.4,6.633,3.222,5.321
+1087,🧤,U+1F9E4,gloves,clothing,1.4,2.333,2.1,6.9,3.9,5.167
+1088,🧥,U+1F9E5,coat,clothing,1,1.52,2.933,6.586,3.793,5.4
+1089,🧦,U+1F9E6,socks,clothing,1.069,1.458,2.208,6.967,3.107,4.444
+1090,👗,U+1F457,dress,clothing,1.103,2.8,1.867,6.967,4.1,6.167
+1091,👘,U+1F458,kimono,clothing,1,1.37,4,6.767,3.44,4.929
+1092,🥻,U+1F97B,sari,clothing,1,1,3.964,5.8,4.37,5.138
+1093,🩱,U+1FA71,one-piece swimsuit,clothing,1,2.346,2,6.667,4,6
+1094,🩲,U+1FA72,briefs,clothing,1,1.231,2.08,6.567,3.929,4.552
+1095,🩳,U+1FA73,shorts,clothing,1,1.214,2.259,6.367,4.069,5.533
+1096,👙,U+1F459,bikini,clothing,1.367,2.867,2.4,6.9,4.733,6.667
+1097,👚,U+1F45A,woman’s clothes,clothing,1,2.577,2.241,6.107,4.103,4.933
+1098,👛,U+1F45B,purse,clothing,1,1.733,1.867,6.667,3.767,5.621
+1099,👜,U+1F45C,handbag,clothing,1.067,2.08,2,6.733,4.379,5.724
+1100,👝,U+1F45D,clutch bag,clothing,1,1.522,1.875,5.8,3.185,5.308
+1102,🎒,U+1F392,backpack,clothing,1,2.269,2.233,6.9,4.793,5.167
+1104,👞,U+1F45E,man’s shoe,clothing,1,1.846,3.69,5.107,4.138,4.931
+1105,👟,U+1F45F,running shoe,clothing,1,1.76,3.167,6.586,5.241,5.5
+1106,🥾,U+1F97E,hiking boot,clothing,1,1.241,2.72,5.733,4.69,4.833
+1107,🥿,U+1F97F,flat shoe,clothing,1,1.333,2.2,6.6,3.621,4.828
+1108,👠,U+1F460,high-heeled shoe,clothing,1.071,2.433,2.731,6.933,4.759,5.7
+1109,👡,U+1F461,woman’s sandal,clothing,1.077,1.536,2.423,6.067,4.448,5.667
+1110,🩰,U+1FA70,ballet shoes,clothing,1,1.5,3.667,6.967,4.185,6.1
+1111,👢,U+1F462,woman’s boot,clothing,1,1.767,1.967,5.633,3.7,5.033
+1112,👑,U+1F451,crown,clothing,2.033,3.92,3.5,5.467,4.286,5.63
+1113,👒,U+1F452,woman’s hat,clothing,1.036,1.6,2.56,3.1,3.345,5.367
+1114,🎩,U+1F3A9,top hat,clothing,1.276,1.92,2.125,2.867,3.571,5.077
+1115,🎓,U+1F393,graduation cap,clothing,1.333,3.633,2.267,6.367,5.567,7.833
+1116,🧢,U+1F9E2,billed cap,clothing,1.033,1.846,2,5.69,3.724,4.867
+1119,📿,U+1F4FF,prayer beads,clothing,1,1.692,2.3,3.259,3.25,5.125
+1120,💄,U+1F484,lipstick,clothing,1.538,3.233,2.407,5,3.69,6.433
+1121,💍,U+1F48D,ring,clothing,1.462,2.7,2.148,6.433,5.207,6.833
+1122,💎,U+1F48E,gem stone,clothing,1.5,3.808,2.167,4.4,4.379,6.567
+1123,🔇,U+1F507,muted speaker,sound,1.37,2.64,3,6.567,3.517,3.867
+1124,🔈,U+1F508,speaker low volume,sound,1.2,2.538,2.567,3.433,6.69,5.767
+1125,🔉,U+1F509,speaker medium volume,sound,1.367,2.48,3.125,4.867,5.607,5.692
+1126,🔊,U+1F50A,speaker high volume,sound,1.577,1.893,2.885,6.033,6,5.9
+1127,📢,U+1F4E2,loudspeaker,sound,1.333,2.241,2.167,4.167,5.517,4.533
+1128,📣,U+1F4E3,megaphone,sound,1.207,2.32,2.167,5,4.964,4.958
+1129,📯,U+1F4EF,postal horn,sound,1.115,1.069,2.154,3.167,5.036,4.9
+1130,🔔,U+1F514,bell,sound,1.192,2.067,1.704,4.833,5.379,4.767
+1131,🔕,U+1F515,bell with slash,sound,1.167,2.357,1.933,6.414,3.862,4.759
+1132,🎼,U+1F3BC,musical score,music,1.357,2.483,2.846,6.5,3.103,7.233
+1133,🎵,U+1F3B5,musical note,music,2.077,3.833,1.148,6.533,3.483,7.967
+1134,🎶,U+1F3B6,musical notes,music,1.867,3.654,1.633,6.367,4.621,7.733
+1138,🎤,U+1F3A4,microphone,music,1.367,3.333,2.233,4.667,4.833,6.333
+1139,🎧,U+1F3A7,headphone,music,1.138,2.423,2.433,5.567,4,6.6
+1140,📻,U+1F4FB,radio,music,1,1.759,3.633,6.9,4.5,5.833
+1141,🎷,U+1F3B7,saxophone,musical-instrument,1.2,1.76,4.417,6.867,4.148,5.444
+1143,🎸,U+1F3B8,guitar,musical-instrument,1.067,2.067,4.7,6.733,4.767,6
+1144,🎹,U+1F3B9,musical keyboard,musical-instrument,1.133,2.25,2.167,6.667,3.214,6.111
+1145,🎺,U+1F3BA,trumpet,musical-instrument,1.1,1.967,3.9,7,4.5,5.9
+1146,🎻,U+1F3BB,violin,musical-instrument,1.111,1.767,3.654,6.933,3.655,5.733
+1147,🪕,U+1FA95,banjo,musical-instrument,1,1.364,4.31,6.56,3.926,5.667
+1148,🥁,U+1F941,drum,musical-instrument,1.067,1.6,3.042,6.933,4.821,5.222
+1150,📱,U+1F4F1,mobile phone,phone,1.308,2.567,2.704,6.433,4.897,6.4
+1152,☎,U+260E,telephone,phone,1.033,2.154,2.233,4,5.483,5.4
+1153,📞,U+1F4DE,telephone receiver,phone,1.367,3.269,1.467,5.345,5.793,5.7
+1155,📠,U+1F4E0,fax machine,phone,1,1.25,4.593,6.103,4.25,4.517
+1156,🔋,U+1F50B,battery,computer,1.1,2.7,1.6,3.3,5.034,5.767
+1157,🔌,U+1F50C,electric plug,computer,1.067,2.533,1.9,6.6,4.633,4.633
+1158,💻,U+1F4BB,laptop,computer,1.462,2.433,3.444,6.9,4.862,5.433
+1164,💽,U+1F4BD,computer disk,computer,1.071,1.4,3.217,6.793,3.593,5
+1165,💾,U+1F4BE,floppy disk,computer,1,1.478,2.7,5.931,4.786,5.036
+1166,💿,U+1F4BF,optical disk,computer,1.167,1.64,2.583,6.867,3.464,5
+1167,📀,U+1F4C0,dvd,computer,1,2.633,2.267,6.933,4.3,5.8
+1168,🧮,U+1F9EE,abacus,computer,1,1.536,4,5.241,4.68,4.815
+1169,🎥,U+1F3A5,movie camera,light & video,1.333,2.6,3.233,5.9,4.103,6.033
+1172,🎬,U+1F3AC,clapper board,light & video,1.321,2.767,2.385,4.5,3.821,6.767
+1173,📺,U+1F4FA,television,light & video,1,2.5,3.033,5.967,4.133,5.6
+1174,📷,U+1F4F7,camera,light & video,1.929,3.967,2.385,5.9,4.071,6.967
+1176,📹,U+1F4F9,video camera,light & video,1,1.862,3.16,6.167,3.556,5.433
+1177,📼,U+1F4FC,videocassette,light & video,1,1.72,2.375,6.286,3.462,5.125
+1178,🔍,U+1F50D,magnifying glass tilted left,light & video,1.233,2.4,1.542,5.867,3.429,5
+1181,💡,U+1F4A1,light bulb,light & video,1.167,2.385,1.862,4.034,4.172,5.667
+1182,🔦,U+1F526,flashlight,light & video,1.1,1.52,2.333,6.133,3.607,4.444
+1183,🏮,U+1F3EE,red paper lantern,light & video,1,1.091,2.933,6.481,3.357,5.571
+1184,🪔,U+1FA94,diya lamp,light & video,1,1.048,2.792,3.556,3.632,5.087
+1186,📕,U+1F4D5,closed book,book-paper,1.464,2.933,1.692,5.333,3.828,4.5
+1187,📖,U+1F4D6,open book,book-paper,1.483,2.846,2.724,5.655,3.103,6.1
+1188,📗,U+1F4D7,green book,book-paper,1.267,2.733,1.267,5.333,3.833,4.7
+1189,📘,U+1F4D8,blue book,book-paper,1.423,2.533,1.667,5.067,4.552,4.567
+1190,📙,U+1F4D9,orange book,book-paper,1.267,2.933,1.4,4.833,3.933,4.733
+1191,📚,U+1F4DA,books,book-paper,2.192,2.633,2.333,6,5.207,4.433
+1192,📓,U+1F4D3,notebook,book-paper,1.231,2.5,3.037,3.393,4.793,4.8
+1193,📒,U+1F4D2,ledger,book-paper,1.4,2.933,1.567,6.5,3.967,4.6
+1195,📜,U+1F4DC,scroll,book-paper,1.143,1.435,2.333,6.393,4.621,5.167
+1196,📄,U+1F4C4,page facing up,book-paper,1.143,1.966,2.5,5.586,4.333,3.655
+1197,📰,U+1F4F0,newspaper,book-paper,1.037,1.536,3.083,6.733,3.769,4.483
+1199,📑,U+1F4D1,bookmark tabs,book-paper,1,1.208,3.261,4.7,4.375,4.444
+1200,🔖,U+1F516,bookmark,book-paper,1,1.071,1.783,4.862,4.24,5.269
+1202,💰,U+1F4B0,money bag,money,1.267,2.533,2.067,6.8,5.3,6.867
+1205,💵,U+1F4B5,dollar banknote,money,1.462,2.536,2.741,6.433,5.931,7
+1206,💶,U+1F4B6,euro banknote,money,1.393,2.391,2.708,6.033,4.786,6.444
+1208,💸,U+1F4B8,money with wings,money,2.038,2.966,2.556,5.067,5.552,6.333
+1209,💳,U+1F4B3,credit card,money,1.111,1.739,3.862,5.448,5.071,5.621
+1210,🧾,U+1F9FE,receipt,money,1.043,1.652,4,5.889,4.769,4.25
+1212,✉,U+2709,envelope,mail,1.143,2.3,1.5,5.767,4.172,5.033
+1213,📧,U+1F4E7,e-mail,mail,1,1.76,1.967,6.379,4.966,5.333
+1214,📨,U+1F4E8,incoming envelope,mail,1,2,1.567,4.897,5,5.724
+1215,📩,U+1F4E9,envelope with arrow,mail,1.276,2.292,1.833,4.241,3.714,5.111
+1216,📤,U+1F4E4,outbox tray,mail,1.241,1.792,2.208,4.9,3.522,4.583
+1217,📥,U+1F4E5,inbox tray,mail,1.233,2.233,1.8,5.179,4.154,5.107
+1218,📦,U+1F4E6,package,mail,1,1.724,1.8,6.793,4.034,5.241
+1219,📫,U+1F4EB,closed mailbox with raised flag,mail,1,1.84,2.4,5,4.31,5.267
+1220,📪,U+1F4EA,closed mailbox with lowered flag,mail,1,1.567,2.346,5.133,4.074,5.033
+1222,📭,U+1F4ED,open mailbox with lowered flag,mail,1.067,2.517,2.067,4.667,3.933,4.7
+1223,📮,U+1F4EE,postbox,mail,1,1.857,2.233,6.133,4.6,5.241
+1231,📝,U+1F4DD,memo,writing,1,1.227,3,5.167,4.68,4.538
+1232,💼,U+1F4BC,briefcase,office,1,1.724,2.852,6.7,4.448,4.633
+1233,📁,U+1F4C1,file folder,office,1,2.2,1.37,6.6,4.586,4.467
+1236,📅,U+1F4C5,calendar,office,1.517,3.207,1.733,3.633,4.241,5.633
+1237,📆,U+1F4C6,tear-off calendar,office,1.037,2.517,2.2,4.033,4.357,5.3
+1240,📇,U+1F4C7,card index,office,1,1.8,3.267,3.3,4.259,4.96
+1241,📈,U+1F4C8,chart increasing,office,1.12,1.833,2.308,6.552,4.964,5.621
+1242,📉,U+1F4C9,chart decreasing,office,1.038,1.862,2,6.379,4.571,2.9
+1243,📊,U+1F4CA,bar chart,office,1.138,1.652,2.417,6.433,3.5,4.04
+1244,📋,U+1F4CB,clipboard,office,1.103,1.524,3.875,5,4.32,4.154
+1245,📌,U+1F4CC,pushpin,office,1.179,3.633,1.5,5.267,4.607,4.833
+1246,📍,U+1F4CD,round pushpin,office,1.429,3.833,2.08,5.533,4.154,5.433
+1247,📎,U+1F4CE,paperclip,office,1.1,2.4,1.2,3.067,3.69,4.533
+1249,📏,U+1F4CF,straight ruler,office,1.36,1.345,2.037,4.571,4.357,4.793
+1250,📐,U+1F4D0,triangular ruler,office,1,1.8,1.7,4.633,3.733,4.3
+1251,✂,U+2702,scissors,office,1.1,2.538,1.828,4.867,5.862,4.267
+1255,🔒,U+1F512,locked,lock,1.3,3.192,1.6,6.133,4.621,4.933
+1256,🔓,U+1F513,unlocked,lock,1.3,2.733,1.7,4.033,4.233,5.3
+1258,🔐,U+1F510,locked with key,lock,1.414,3,2.567,4.633,4.724,5.433
+1259,🔑,U+1F511,key,lock,1.1,1.76,1.833,6.667,3.393,4.778
+1261,🔨,U+1F528,hammer,tool,1,2.038,2.067,5.621,6.069,4.567
+1262,🪓,U+1FA93,axe,tool,1,1.552,1.923,5.333,5.926,3.667
+1268,🔫,U+1F52B,water pistol,game,1.357,2.64,4.167,4.067,4.964,5.926
+1270,🏹,U+1F3F9,bow and arrow,tool,1.2,1.833,3,6.467,4.536,4.926
+1273,🔧,U+1F527,wrench,tool,1,1.4,2.192,5.7,4.259,4.069
+1275,🔩,U+1F529,nut and bolt,tool,1,1.241,2.56,4.367,3.926,4.207
+1280,🔗,U+1F517,link,tool,1.143,2.345,2.269,5,4.571,4.759
+1283,🧰,U+1F9F0,toolbox,tool,1,1.64,2.267,5.464,4.333,4.733
+1284,🧲,U+1F9F2,magnet,tool,1.038,1.429,1.741,5.367,4.552,5.033
+1287,🧪,U+1F9EA,test tube,science,1.042,1.4,2.444,5.367,4.448,5.333
+1288,🧫,U+1F9EB,petri dish,science,1.04,1.348,4.833,5.172,3.208,4.818
+1289,🧬,U+1F9EC,dna,science,1.133,2,2.917,6.067,4.32,5
+1290,🔬,U+1F52C,microscope,science,1.107,2,3.269,6.267,4.25,5.069
+1291,🔭,U+1F52D,telescope,science,1,1.586,3.038,5.833,3.37,5.862
+1292,📡,U+1F4E1,satellite antenna,science,1,1.367,3.923,6.2,4.519,4.448
+1293,💉,U+1F489,syringe,medical,1.233,2.833,3.567,6.3,6.167,3.133
+1294,🩸,U+1FA78,drop of blood,medical,1.655,2.724,1.3,4.267,5.357,3
+1295,💊,U+1F48A,pill,medical,1.577,3.207,1.37,6.533,6.069,4.033
+1296,🩹,U+1FA79,adhesive bandage,medical,1,1.6,2,5.367,4.966,4.067
+1297,🩺,U+1FA7A,stethoscope,medical,1,2.567,2.533,5.167,4.862,4.767
+1298,🚪,U+1F6AA,door,household,1.069,2.2,2.042,3.667,3.393,4.37
+1304,🪑,U+1FA91,chair,household,1.077,1.367,2,3.333,3.345,4.433
+1305,🚽,U+1F6BD,toilet,household,1.233,2.077,2.345,6.138,3.517,5.233
+1307,🚿,U+1F6BF,shower,household,1.321,2.733,2.192,6.667,2.931,7.133
+1308,🛁,U+1F6C1,bathtub,household,1.4,2.154,3,6.4,2.069,6.967
+1310,🪒,U+1FA92,razor,household,1.185,1.105,3.348,5.857,3.923,4.654
+1311,🧴,U+1F9F4,lotion bottle,household,1,1.24,1.963,3.567,3.917,5.208
+1312,🧷,U+1F9F7,safety pin,household,1.133,1.52,2.042,3.2,3.036,4.259
+1313,🧹,U+1F9F9,broom,household,1.069,1.44,2.75,5.667,4.107,4.222
+1314,🧺,U+1F9FA,basket,household,1,1.036,3.556,2.033,3.897,5.3
+1315,🧻,U+1F9FB,roll of paper,household,1.074,1.933,2.08,6.767,3.483,5.034
+1317,🧼,U+1F9FC,soap,household,1,1.036,1.458,4,3.68,5.071
+1319,🧽,U+1F9FD,sponge,household,1,1.69,1.933,4.933,3.286,5.143
+1320,🧯,U+1F9EF,fire extinguisher,household,1,1.633,2.633,6.1,5.69,3.483
+1321,🛒,U+1F6D2,shopping cart,household,1,1.633,2.6,6.067,3.556,4.828
+1322,🚬,U+1F6AC,cigarette,other-object,1.308,2.724,2.778,6.667,5.517,3.1
+1326,🗿,U+1F5FF,moai,other-object,1.034,1.759,3.133,2.633,3.6,4.897
+1329,🚮,U+1F6AE,litter in bin sign,transport-sign,1,1.607,1.778,6.2,4.034,6.433
+1330,🚰,U+1F6B0,potable water,transport-sign,1,1.44,2.033,5,4.185,5.538
+1331,♿,U+267F,wheelchair symbol,transport-sign,1.036,2,2.44,6.7,4.63,4.207
+1332,🚹,U+1F6B9,men’s room,transport-sign,1.04,1.433,1.074,5.733,4.143,4.63
+1333,🚺,U+1F6BA,women’s room,transport-sign,1.286,2.565,1.583,5.724,3.75,5.185
+1334,🚻,U+1F6BB,restroom,transport-sign,1.071,2.292,2.042,5.867,3.929,4.462
+1335,🚼,U+1F6BC,baby symbol,transport-sign,1.207,1.375,1.667,6.552,3.407,5.2
+1336,🚾,U+1F6BE,water closet,transport-sign,1.2,1.56,1.542,6.6,3.393,4.654
+1337,🛂,U+1F6C2,passport control,transport-sign,1,1.316,3.111,4.75,5.4,4.565
+1338,🛃,U+1F6C3,customs,transport-sign,1,1.25,1.538,5.04,5.308,4.44
+1339,🛄,U+1F6C4,baggage claim,transport-sign,1,1.1,2.714,4.2,3.444,4.571
+1340,🛅,U+1F6C5,left luggage,transport-sign,1,1.038,1.769,4.444,4.48,5.32
+1341,⚠,U+26A0,warning,warning,1.333,3.367,1.2,6.9,6.567,3.8
+1342,🚸,U+1F6B8,children crossing,warning,1,1.821,2.9,6.414,4.862,5.25
+1386,🔯,U+1F52F,dotted six-pointed star,religion,1.034,1.379,1.964,5.704,4.19,5
+1387,♈,U+2648,Aries,zodiac,1.04,1.964,1.333,6.222,4.259,4.962
+1388,♉,U+2649,Taurus,zodiac,1,2.25,2,5.923,4.261,5.435
+1389,♊,U+264A,Gemini,zodiac,1,1.643,1.417,6.423,4.56,4.923
+1390,♋,U+264B,Cancer,zodiac,1.222,2.586,2.76,6.625,3.962,5.577
+1391,♌,U+264C,Leo,zodiac,1.071,2.4,1.893,6.346,4.304,6.08
+1392,♍,U+264D,Virgo,zodiac,1,1.929,1.929,5.917,4,4.88
+1393,♎,U+264E,Libra,zodiac,1,2.069,2.692,6.478,3.231,5.083
+1394,♏,U+264F,Scorpio,zodiac,1.407,2.267,2.034,6.32,4.625,5.36
+1395,♐,U+2650,Sagittarius,zodiac,1,1.75,1.375,6.481,4.192,5.583
+1396,♑,U+2651,Capricorn,zodiac,1,1.696,2.458,5.87,4.818,5
+1397,♒,U+2652,Aquarius,zodiac,1.037,1.714,2.68,6.217,3.708,4.583
+1398,♓,U+2653,Pisces,zodiac,1.037,2.172,2.8,6.625,3.375,4.6
+1399,⛎,U+26CE,Ophiuchus,zodiac,1,1.682,2.043,4.944,4.526,4.9
+1418,🎦,U+1F3A6,cinema,av-symbol,1.154,1.75,1.667,5.8,4.207,5.633
+1421,📶,U+1F4F6,antenna bars,av-symbol,1,1.524,1.552,5.793,5.379,6.036
+1422,📳,U+1F4F3,vibration mode,av-symbol,1.038,1.364,1.958,5.429,4.375,4.571
+1444,🔱,U+1F531,trident emblem,other-symbol,1.074,2.033,2.269,6.621,4.25,4.828
+1453,➰,U+27B0,curly loop,other-symbol,1.033,1.724,1.621,3.704,3.857,5.174
